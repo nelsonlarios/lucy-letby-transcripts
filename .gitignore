@@ -4,6 +4,4 @@ dist
 playwright-report
 test-results
 generated
-public/data
-public/pagefind
 *.local

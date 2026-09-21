@@ -1,0 +1,3167 @@
+{
+	"generatedAt": "2026-09-21T10:12:25.632Z",
+	"transcriptCount": 140,
+	"pageCount": 11350,
+	"blockCount": 181968,
+	"speakerCount": 96,
+	"sections": [
+		{
+			"name": "Pre-trial matters",
+			"days": [
+				1,
+				2,
+				3
+			]
+		},
+		{
+			"name": "The First Week",
+			"days": [
+				4,
+				5,
+				6,
+				7,
+				8
+			]
+		},
+		{
+			"name": "Babies A & B",
+			"days": [
+				9,
+				10,
+				11,
+				12,
+				13,
+				14,
+				15,
+				16
+			]
+		},
+		{
+			"name": "Baby C",
+			"days": [
+				17,
+				18,
+				19,
+				20,
+				21
+			]
+		},
+		{
+			"name": "Baby D",
+			"days": [
+				22,
+				23,
+				24,
+				25,
+				26,
+				27,
+				28
+			]
+		},
+		{
+			"name": "Baby E",
+			"days": [
+				29,
+				30,
+				31,
+				32,
+				33
+			]
+		},
+		{
+			"name": "Baby F",
+			"days": [
+				34,
+				35,
+				36,
+				37,
+				38,
+				39,
+				40,
+				41
+			]
+		},
+		{
+			"name": "Baby G",
+			"days": [
+				42,
+				43,
+				44,
+				45,
+				46,
+				47,
+				48,
+				49,
+				50,
+				51,
+				52,
+				53,
+				54
+			]
+		},
+		{
+			"name": "Baby H",
+			"days": [
+				55,
+				56,
+				57,
+				58
+			]
+		},
+		{
+			"name": "Baby I",
+			"days": [
+				59,
+				60,
+				61,
+				62,
+				63,
+				64,
+				65,
+				66,
+				67,
+				68
+			]
+		},
+		{
+			"name": "Baby J",
+			"days": [
+				69,
+				70
+			]
+		},
+		{
+			"name": "Babies L & M",
+			"days": [
+				71,
+				72,
+				73,
+				74,
+				75,
+				76,
+				77
+			]
+		},
+		{
+			"name": "Baby K",
+			"days": [
+				78,
+				79,
+				80
+			]
+		},
+		{
+			"name": "Baby N",
+			"days": [
+				81,
+				82,
+				83,
+				84
+			]
+		},
+		{
+			"name": "Baby O",
+			"days": [
+				85,
+				86,
+				88,
+				89
+			]
+		},
+		{
+			"name": "Radiology - Babies J, K, L, M, N, O, & P",
+			"days": [
+				90
+			]
+		},
+		{
+			"name": "Baby P",
+			"days": [
+				91,
+				92,
+				93,
+				94,
+				95,
+				96
+			]
+		},
+		{
+			"name": "Pathology - Babies A, C, D, I, O & P",
+			"days": [
+				97,
+				98
+			]
+		},
+		{
+			"name": "Baby Q",
+			"days": [
+				99,
+				101,
+				102,
+				103
+			]
+		},
+		{
+			"name": "Arrests, House Searches/Exhibits, Police Interviews",
+			"days": [
+				104,
+				105,
+				106,
+				107,
+				108
+			]
+		},
+		{
+			"name": "Application by the Defence",
+			"days": [
+				109
+			]
+		},
+		{
+			"name": "Lucy Letby - Examination-in-chief by Ben Myers LC",
+			"days": [
+				110,
+				111,
+				112,
+				113,
+				114,
+				115
+			]
+		},
+		{
+			"name": "Lucy Letby - Cross-examination by Nick Johnson KC",
+			"days": [
+				116,
+				117,
+				118,
+				119,
+				120,
+				122,
+				123,
+				124,
+				125,
+				126
+			]
+		},
+		{
+			"name": "Lucy Letby - Final day of Cross-examination & Re-examination by Ben Myers KC",
+			"days": [
+				127
+			]
+		},
+		{
+			"name": "Defence witness",
+			"days": [
+				129
+			]
+		},
+		{
+			"name": "Directions to the Jury (web page)",
+			"days": [
+				130
+			]
+		},
+		{
+			"name": "Prosecution Closing Speech",
+			"days": [
+				131,
+				132,
+				133,
+				134
+			]
+		},
+		{
+			"name": "Defence Closing Speech (web page)",
+			"days": [
+				136,
+				137,
+				138,
+				139,
+				140
+			]
+		},
+		{
+			"name": "Judge's Summing Up (Web page)",
+			"days": [
+				141,
+				142,
+				143,
+				144,
+				145
+			]
+		}
+	],
+	"transcripts": [
+		{
+			"day": 1,
+			"date": "2022-10-04",
+			"title": "Discussion Re Lucy Letby's Circumstances and Fitness to Attend",
+			"section": "Pre-trial matters",
+			"filename": "day_001_04-10-2022.pdf",
+			"sourceUrl": "https://lucyletbyinnocence.com/transcripts/day_001_04-10-2022.pdf",
+			"pageCount": 13,
+			"blockCount": 154,
+			"characterCount": 23359,
+			"speakers": [
+				"MR JUSTICE GOSS",
+				"MR JOHNSON",
+				"MR MYERS",
+				"MR BUNTING"
+			]
+		},
+		{
+			"day": 2,
+			"date": "2022-10-06",
+			"title": "Application Re Witness Anonymity and Special Measures",
+			"section": "Pre-trial matters",
+			"filename": "day_002_06-10-2022.pdf",
+			"sourceUrl": "https://lucyletbyinnocence.com/transcripts/day_002_06-10-2022.pdf",
+			"pageCount": 39,
+			"blockCount": 359,
+			"characterCount": 86109,
+			"speakers": [
+				"MR JUSTICE GOSS",
+				"MR JOHNSON",
+				"MR BUNTING",
+				"MR MYERS"
+			]
+		},
+		{
+			"day": 3,
+			"date": "2022-10-07",
+			"title": "Submissions and Ruling on Special Measures, Prosecution Application to Amend the Indictment, Jury Matters, Defence Application Re Expert Evidence",
+			"section": "Pre-trial matters",
+			"filename": "day_003_07-10-2022.pdf",
+			"sourceUrl": "https://lucyletbyinnocence.com/transcripts/day_003_07-10-2022.pdf",
+			"pageCount": 42,
+			"blockCount": 398,
+			"characterCount": 95294,
+			"speakers": [
+				"MR JUSTICE GOSS",
+				"MR MYERS",
+				"MR JOHNSON"
+			]
+		},
+		{
+			"day": 4,
+			"date": "2022-10-10",
+			"title": "The Charges, Jury Directions, Prosecution Opening Speech",
+			"section": "The First Week",
+			"filename": "day_004_10-10-2022.pdf",
+			"sourceUrl": "https://lucyletbyinnocence.com/transcripts/day_004_10-10-2022.pdf",
+			"pageCount": 41,
+			"blockCount": 411,
+			"characterCount": 92659,
+			"speakers": [
+				"CLERK OF THE COURT",
+				"MR JUSTICE GOSS",
+				"MR JOHNSON",
+				"MR MYERS"
+			]
+		},
+		{
+			"day": 5,
+			"date": "2022-10-11",
+			"title": "Prosecution Opening Speech (continued)",
+			"section": "The First Week",
+			"filename": "day_005_11-10-2022.pdf",
+			"sourceUrl": "https://lucyletbyinnocence.com/transcripts/day_005_11-10-2022.pdf",
+			"pageCount": 54,
+			"blockCount": 536,
+			"characterCount": 120904,
+			"speakers": [
+				"MR JUSTICE GOSS",
+				"MR JOHNSON",
+				"MR MYERS"
+			]
+		},
+		{
+			"day": 6,
+			"date": "2022-10-12",
+			"title": "Prosecution Opening Speech (continued)",
+			"section": "The First Week",
+			"filename": "day_006_12-10-2022.pdf",
+			"sourceUrl": "https://lucyletbyinnocence.com/transcripts/day_006_12-10-2022.pdf",
+			"pageCount": 53,
+			"blockCount": 545,
+			"characterCount": 116499,
+			"speakers": [
+				"MR JUSTICE GOSS",
+				"MR JOHNSON",
+				"MR MYERS"
+			]
+		},
+		{
+			"day": 7,
+			"date": "2022-10-13",
+			"title": "Prosecution Opening Speech (continued), Defence Opening Speech",
+			"section": "The First Week",
+			"filename": "day_007_13-10-2022.pdf",
+			"sourceUrl": "https://lucyletbyinnocence.com/transcripts/day_007_13-10-2022.pdf",
+			"pageCount": 70,
+			"blockCount": 720,
+			"characterCount": 154897,
+			"speakers": [
+				"MR JUSTICE GOSS",
+				"MR JOHNSON",
+				"MR MYERS"
+			]
+		},
+		{
+			"day": 8,
+			"date": "2022-10-14",
+			"title": "Dr Dewi Evans",
+			"section": "The First Week",
+			"filename": "day_008_14-10-2022.pdf",
+			"sourceUrl": "https://lucyletbyinnocence.com/transcripts/day_008_14-10-2022.pdf",
+			"pageCount": 54,
+			"blockCount": 760,
+			"characterCount": 94982,
+			"speakers": [
+				"MR JUSTICE GOSS",
+				"MR JOHNSON",
+				"MR MYERS",
+				"MR DRIVER",
+				"EVANS",
+				"JOHNSON",
+				"MYERS"
+			]
+		},
+		{
+			"day": 9,
+			"date": "2022-10-17",
+			"title": "Mother, father & grandmother of Babies A & B (statements), Claire Hocknell (Police Analyst)",
+			"section": "Babies A & B",
+			"filename": "day_009_17-10-2022.pdf",
+			"sourceUrl": "https://lucyletbyinnocence.com/transcripts/day_009_17-10-2022.pdf",
+			"pageCount": 97,
+			"blockCount": 1484,
+			"characterCount": 160468,
+			"speakers": [
+				"MR JUSTICE GOSS",
+				"MR MYERS",
+				"MR JOHNSON",
+				"MR ASTBURY",
+				"HOCKNELL",
+				"JOHNSON",
+				"MR MURPHY"
+			]
+		},
+		{
+			"day": 10,
+			"date": "2022-10-18",
+			"title": "Claire Hocknell & Kate Tyndall (Police Analysts)",
+			"section": "Babies A & B",
+			"filename": "day_010_18-10-2022.pdf",
+			"sourceUrl": "https://lucyletbyinnocence.com/transcripts/day_010_18-10-2022.pdf",
+			"pageCount": 121,
+			"blockCount": 2217,
+			"characterCount": 159068,
+			"speakers": [
+				"MR JOHNSON",
+				"MR JUSTICE GOSS",
+				"UNKNOWN SPEAKER",
+				"HOCKNELL",
+				"JOHNSON",
+				"MR MYERS",
+				"TYNDALL",
+				"JUROR"
+			]
+		},
+		{
+			"day": 11,
+			"date": "2022-10-19",
+			"title": "Claire Hocknell cont., Melanie Taylor. Witness statements (Dr Lorraine Dinardo - obstetrician & gynaecologist, Midwife Rachel Wright, Dr Gail Beech, Dr Emily Thomas, Dr Andrew Brunton, Dr Theresa MacCarrick, Dr Sally Ogden)",
+			"section": "Babies A & B",
+			"filename": "day_011_19-10-2022.pdf",
+			"sourceUrl": "https://lucyletbyinnocence.com/transcripts/day_011_19-10-2022.pdf",
+			"pageCount": 97,
+			"blockCount": 1492,
+			"characterCount": 158908,
+			"speakers": [
+				"MR JUSTICE GOSS",
+				"MR JOHNSON",
+				"MR MYERS",
+				"HOCKNELL",
+				"JOHNSON",
+				"MYERS",
+				"MR DRIVER",
+				"THE WITNESS",
+				"TAYLOR",
+				"DRIVER"
+			]
+		},
+		{
+			"day": 12,
+			"date": "2022-10-20",
+			"title": "Melanie Taylor cont., Dr David Harkness Witness Statements (Dr Christopher Wood, Lisa Walker, Laura Eagles, Elizabeth Marshall, Minna Lappalainen, Joanne Williams, [Mother of non-indictment baby], Kathryn Percival-Ward, Ailsa Simpson)",
+			"section": "Babies A & B",
+			"filename": "day_012_20-10-2022.pdf",
+			"sourceUrl": "https://lucyletbyinnocence.com/transcripts/day_012_20-10-2022.pdf",
+			"pageCount": 109,
+			"blockCount": 1704,
+			"characterCount": 171765,
+			"speakers": [
+				"MR JUSTICE GOSS",
+				"MR MYERS",
+				"TAYLOR",
+				"MYERS",
+				"MR DRIVER",
+				"DRIVER",
+				"MR JOHNSON",
+				"HARKNESS",
+				"MR ASTBURY"
+			]
+		},
+		{
+			"day": 13,
+			"date": "2022-10-21",
+			"title": "Prof Owen Arthurs, Caroline Bennion, Nurse A",
+			"section": "Babies A & B",
+			"filename": "day_013_21-10-2022.pdf",
+			"sourceUrl": "https://lucyletbyinnocence.com/transcripts/day_013_21-10-2022.pdf",
+			"pageCount": 85,
+			"blockCount": 1358,
+			"characterCount": 132343,
+			"speakers": [
+				"MR JUSTICE GOSS",
+				"MR MYERS",
+				"MR JOHNSON",
+				"ARTHURS",
+				"JOHNSON",
+				"MYERS",
+				"MR ASTBURY",
+				"MR DRIVER",
+				"BENNION",
+				"DRIVER",
+				"ASTBURY"
+			]
+		},
+		{
+			"day": 14,
+			"date": "2022-10-24",
+			"title": "Nurse A cont., Dr Rachel Lambie, Dr Ravi Jayaram",
+			"section": "Babies A & B",
+			"filename": "day_014_24-10-2022.pdf",
+			"sourceUrl": "https://lucyletbyinnocence.com/transcripts/day_014_24-10-2022.pdf",
+			"pageCount": 123,
+			"blockCount": 2010,
+			"characterCount": 188350,
+			"speakers": [
+				"MR ASTBURY",
+				"ASTBURY",
+				"MR MYERS",
+				"MYERS",
+				"MR JUSTICE GOSS",
+				"LAMBIE",
+				"JAYARAM",
+				"JUROR"
+			]
+		},
+		{
+			"day": 15,
+			"date": "2022-10-25",
+			"title": "Dr B, Dr Dewi Evans, Dr Sandie Bohin",
+			"section": "Babies A & B",
+			"filename": "day_015_25-10-2022.pdf",
+			"sourceUrl": "https://lucyletbyinnocence.com/transcripts/day_015_25-10-2022.pdf",
+			"pageCount": 126,
+			"blockCount": 2037,
+			"characterCount": 196853,
+			"speakers": [
+				"MR JUSTICE GOSS",
+				"MR JOHNSON",
+				"MR ASTBURY",
+				"ASTBURY",
+				"MR MYERS",
+				"MYERS",
+				"EVANS",
+				"JOHNSON",
+				"BOHIN"
+			]
+		},
+		{
+			"day": 16,
+			"date": "2022-10-26",
+			"title": "Dr Sandie Bohin cont., Claire Hocknell, Summary of Police Interviews with Lucy Letby. Baby C: Parents of Baby C (statement), Kate Tyndall",
+			"section": "Babies A & B",
+			"filename": "day_016_26-10-2022.pdf",
+			"sourceUrl": "https://lucyletbyinnocence.com/transcripts/day_016_26-10-2022.pdf",
+			"pageCount": 110,
+			"blockCount": 1865,
+			"characterCount": 158255,
+			"speakers": [
+				"MR JUSTICE GOSS",
+				"MR JOHNSON",
+				"BOHIN",
+				"JOHNSON",
+				"MR MYERS",
+				"MYERS",
+				"HOCKNELL",
+				"MR DRIVER",
+				"TYNDALL",
+				"MR ASTBURY"
+			]
+		},
+		{
+			"day": 17,
+			"date": "2022-10-27",
+			"title": "Kate Tyndall, Claire Hocknell, Dr Sally Ogden, Dr Gail Beech, Yvonne Griffiths",
+			"section": "Baby C",
+			"filename": "day_017_27-10-2022.pdf",
+			"sourceUrl": "https://lucyletbyinnocence.com/transcripts/day_017_27-10-2022.pdf",
+			"pageCount": 128,
+			"blockCount": 2235,
+			"characterCount": 176980,
+			"speakers": [
+				"MR MYERS",
+				"MR JUSTICE GOSS",
+				"MR JOHNSON",
+				"TYNDALL",
+				"JOHNSON",
+				"HOCKNELL",
+				"MR DRIVER",
+				"OGDEN",
+				"DRIVER",
+				"MYERS",
+				"BEECH",
+				"JUROR",
+				"GRIFFITHS",
+				"THE WITNESS"
+			]
+		},
+		{
+			"day": 18,
+			"date": "2022-10-28",
+			"title": "Joanne Williams, Sophie Ellis, Melanie Taylor",
+			"section": "Baby C",
+			"filename": "day_018_28-10-2022.pdf",
+			"sourceUrl": "https://lucyletbyinnocence.com/transcripts/day_018_28-10-2022.pdf",
+			"pageCount": 96,
+			"blockCount": 1775,
+			"characterCount": 121940,
+			"speakers": [
+				"MR ASTBURY",
+				"MR JUSTICE GOSS",
+				"WILLIAMS",
+				"ASTBURY",
+				"MR MYERS",
+				"MYERS",
+				"ELLIS",
+				"MR DRIVER",
+				"TAYLOR",
+				"DRIVER"
+			]
+		},
+		{
+			"day": 19,
+			"date": "2022-10-31",
+			"title": "Nurse B, Dr Katherine Davis, Dr John Gibbs",
+			"section": "Baby C",
+			"filename": "day_019_31-10-2022.pdf",
+			"sourceUrl": "https://lucyletbyinnocence.com/transcripts/day_019_31-10-2022.pdf",
+			"pageCount": 106,
+			"blockCount": 1740,
+			"characterCount": 161638,
+			"speakers": [
+				"MR JUSTICE GOSS",
+				"MR DRIVER",
+				"DRIVER",
+				"MR MYERS",
+				"MYERS",
+				"MR JOHNSON",
+				"MR ASTBURY",
+				"DAVIS",
+				"ASTBURY",
+				"GIBBS"
+			]
+		},
+		{
+			"day": 20,
+			"date": "2022-11-01",
+			"title": "Dr John Gibbs cont., Dr Dewi Evans, Dr Sandie Bohin. Witness statements (Dr Andrew Brunton, Bernadette Butterworth, Dr Catherine Collins)",
+			"section": "Baby C",
+			"filename": "day_020_01-11-2022.pdf",
+			"sourceUrl": "https://lucyletbyinnocence.com/transcripts/day_020_01-11-2022.pdf",
+			"pageCount": 112,
+			"blockCount": 1699,
+			"characterCount": 185972,
+			"speakers": [
+				"MR JUSTICE GOSS",
+				"MR MYERS",
+				"MR ASTBURY",
+				"GIBBS",
+				"ASTBURY",
+				"MYERS",
+				"MR DRIVER",
+				"MR JOHNSON",
+				"EVANS",
+				"JOHNSON",
+				"BOHIN"
+			]
+		},
+		{
+			"day": 21,
+			"date": "2022-11-02",
+			"title": "Dr Sandie Bohin cont., Summary of interview with Lucy Letby",
+			"section": "Baby C",
+			"filename": "day_021_02-11-2022.pdf",
+			"sourceUrl": "https://lucyletbyinnocence.com/transcripts/day_021_02-11-2022.pdf",
+			"pageCount": 35,
+			"blockCount": 523,
+			"characterCount": 55841,
+			"speakers": [
+				"MR MYERS",
+				"MR JUSTICE GOSS",
+				"MR JOHNSON",
+				"BOHIN",
+				"JOHNSON",
+				"MYERS",
+				"DOCK OFFICER"
+			]
+		},
+		{
+			"day": 22,
+			"date": "2022-11-03",
+			"title": "Mother of Baby D, Father of Baby D (statement), Kate Tyndall",
+			"section": "Baby D",
+			"filename": "day_022_03-11-2022.pdf",
+			"sourceUrl": "https://lucyletbyinnocence.com/transcripts/day_022_03-11-2022.pdf",
+			"pageCount": 102,
+			"blockCount": 1908,
+			"characterCount": 128330,
+			"speakers": [
+				"MR JUSTICE GOSS",
+				"MR MYERS",
+				"MR JOHNSON",
+				"JOHNSON",
+				"MYERS",
+				"MR DRIVER",
+				"TYNDALL"
+			]
+		},
+		{
+			"day": 23,
+			"date": "2022-11-04",
+			"title": "Claire Hocknell, Caroline Oakley",
+			"section": "Baby D",
+			"filename": "day_023_04-11-2022.pdf",
+			"sourceUrl": "https://lucyletbyinnocence.com/transcripts/day_023_04-11-2022.pdf",
+			"pageCount": 87,
+			"blockCount": 1568,
+			"characterCount": 116659,
+			"speakers": [
+				"MR JUSTICE GOSS",
+				"MR JOHNSON",
+				"HOCKNELL",
+				"JOHNSON",
+				"MR MYERS",
+				"MYERS",
+				"MR DRIVER",
+				"OAKLEY",
+				"DRIVER",
+				"MR ASTBURY"
+			]
+		},
+		{
+			"day": 24,
+			"date": "2022-11-07",
+			"title": "Dr Andrew Brunton, Dr Joanne Davies, Lisa Walker, Midwife Julie Robson (statement), Midwife Anna McManus(statement)",
+			"section": "Baby D",
+			"filename": "day_024_07-11-2022.pdf",
+			"sourceUrl": "https://lucyletbyinnocence.com/transcripts/day_024_07-11-2022.pdf",
+			"pageCount": 106,
+			"blockCount": 1695,
+			"characterCount": 163347,
+			"speakers": [
+				"MR JUSTICE GOSS",
+				"MR DRIVER",
+				"BRUNTON",
+				"DRIVER",
+				"MR MYERS",
+				"MYERS",
+				"MR ASTBURY",
+				"DAVIES",
+				"ASTBURY",
+				"WALKER"
+			]
+		},
+		{
+			"day": 25,
+			"date": "2022-11-08",
+			"title": "Dr Sarah Rylance, Nurse C, Dr Emily Thomas (statement), Elizabeth Marshall (statement)",
+			"section": "Baby D",
+			"filename": "day_025_08-11-2022.pdf",
+			"sourceUrl": "https://lucyletbyinnocence.com/transcripts/day_025_08-11-2022.pdf",
+			"pageCount": 61,
+			"blockCount": 933,
+			"characterCount": 98805,
+			"speakers": [
+				"MR JUSTICE GOSS",
+				"THE INTERPRETER",
+				"MR DRIVER",
+				"UNKNOWN SPEAKER",
+				"MR MYERS",
+				"RYLANCE",
+				"DRIVER",
+				"MYERS",
+				"MR ASTBURY",
+				"ASTBURY"
+			]
+		},
+		{
+			"day": 26,
+			"date": "2022-11-09",
+			"title": "Dr Elizabeth Newby, Katherine Percival-Calderbank, Dr Dewi Evans",
+			"section": "Baby D",
+			"filename": "day_026_09-11-2022.pdf",
+			"sourceUrl": "https://lucyletbyinnocence.com/transcripts/day_026_09-11-2022.pdf",
+			"pageCount": 112,
+			"blockCount": 1861,
+			"characterCount": 164810,
+			"speakers": [
+				"MR JUSTICE GOSS",
+				"MR ASTBURY",
+				"NEWBY",
+				"ASTBURY",
+				"MR MYERS",
+				"MYERS",
+				"PERCIVAL-CALDERBANK",
+				"MR JOHNSON",
+				"EVANS",
+				"JOHNSON"
+			]
+		},
+		{
+			"day": 27,
+			"date": "2022-11-10",
+			"title": "Housekeeping (Juror off sick)",
+			"section": "Baby D",
+			"filename": "day_027_10-11-2022.pdf",
+			"sourceUrl": "https://lucyletbyinnocence.com/transcripts/day_027_10-11-2022.pdf",
+			"pageCount": 5,
+			"blockCount": 69,
+			"characterCount": 7471,
+			"speakers": [
+				"MR JUSTICE GOSS",
+				"MR JOHNSON",
+				"MR MYERS"
+			]
+		},
+		{
+			"day": 28,
+			"date": "2022-11-11",
+			"title": "Dr Sally Ogden (statement re Baby C), Prof Owen Arthurs (Babies C & D), Dr Sandie Bohin, Kate Tyndall, Summary of Interview with Lucy Letby",
+			"section": "Baby D",
+			"filename": "day_028_11-11-2022.pdf",
+			"sourceUrl": "https://lucyletbyinnocence.com/transcripts/day_028_11-11-2022.pdf",
+			"pageCount": 86,
+			"blockCount": 1330,
+			"characterCount": 136799,
+			"speakers": [
+				"MR JUSTICE GOSS",
+				"MR DRIVER",
+				"MR JOHNSON",
+				"ARTHURS",
+				"JOHNSON",
+				"MR MYERS",
+				"MYERS",
+				"BOHIN",
+				"TYNDALL"
+			]
+		},
+		{
+			"day": 29,
+			"date": "2022-11-14",
+			"title": "Parents of Babies E&F, Claire Hocknell, Kate Tyndall",
+			"section": "Baby E",
+			"filename": "day_029_14-11-2022.pdf",
+			"sourceUrl": "https://lucyletbyinnocence.com/transcripts/day_029_14-11-2022.pdf",
+			"pageCount": 108,
+			"blockCount": 2076,
+			"characterCount": 131008,
+			"speakers": [
+				"MR JUSTICE GOSS",
+				"MR JOHNSON",
+				"JOHNSON",
+				"MR MYERS",
+				"MYERS",
+				"HOCKNELL",
+				"TYNDALL"
+			]
+		},
+		{
+			"day": 30,
+			"date": "2022-11-15",
+			"title": "Dr Christopher Wood, Nurse B. Witness statements (Midwife Susan Brookes, Caroline Oakley, Shelley Tomlins)",
+			"section": "Baby E",
+			"filename": "day_030_15-11-2022.pdf",
+			"sourceUrl": "https://lucyletbyinnocence.com/transcripts/day_030_15-11-2022.pdf",
+			"pageCount": 77,
+			"blockCount": 1284,
+			"characterCount": 115204,
+			"speakers": [
+				"MR JUSTICE GOSS",
+				"MR MYERS",
+				"MR JOHNSON",
+				"MR DRIVER",
+				"WOOD",
+				"DRIVER",
+				"MYERS"
+			]
+		},
+		{
+			"day": 31,
+			"date": "2022-11-16",
+			"title": "Dr C, Dr Emily Thomas, Belinda Williamson",
+			"section": "Baby E",
+			"filename": "day_031_16-11-2022.pdf",
+			"sourceUrl": "https://lucyletbyinnocence.com/transcripts/day_031_16-11-2022.pdf",
+			"pageCount": 111,
+			"blockCount": 1868,
+			"characterCount": 162884,
+			"speakers": [
+				"MR JUSTICE GOSS",
+				"MR DRIVER",
+				"DRIVER",
+				"MR MYERS",
+				"MYERS",
+				"MR ASTBURY",
+				"THOMAS",
+				"ASTBURY",
+				"WILLIAMSON"
+			]
+		},
+		{
+			"day": 32,
+			"date": "2022-11-17",
+			"title": "Dr David Harkness",
+			"section": "Baby E",
+			"filename": "day_032_17-11-2022.pdf",
+			"sourceUrl": "https://lucyletbyinnocence.com/transcripts/day_032_17-11-2022.pdf",
+			"pageCount": 82,
+			"blockCount": 1403,
+			"characterCount": 114842,
+			"speakers": [
+				"MR JUSTICE GOSS",
+				"MR ASTBURY",
+				"HARKNESS",
+				"ASTBURY",
+				"MR MYERS",
+				"MYERS",
+				"MR JOHNSON"
+			]
+		},
+		{
+			"day": 33,
+			"date": "2022-11-18",
+			"title": "Dr Dewi Evans, Dr Sandie Bohin, Claire Hocknell, Summary of interview with Lucy Letby",
+			"section": "Baby E",
+			"filename": "day_033_18-11-2022.pdf",
+			"sourceUrl": "https://lucyletbyinnocence.com/transcripts/day_033_18-11-2022.pdf",
+			"pageCount": 72,
+			"blockCount": 1180,
+			"characterCount": 106513,
+			"speakers": [
+				"MR JUSTICE GOSS",
+				"MR JOHNSON",
+				"EVANS",
+				"JOHNSON",
+				"MR MYERS",
+				"MYERS",
+				"BOHIN",
+				"HOCKNELL"
+			]
+		},
+		{
+			"day": 34,
+			"date": "2022-11-21",
+			"title": "Juror off sick",
+			"section": "Baby F",
+			"filename": "day_034_21-11-2022.pdf",
+			"sourceUrl": "https://lucyletbyinnocence.com/transcripts/day_034_21-11-2022.pdf",
+			"pageCount": 3,
+			"blockCount": 45,
+			"characterCount": 4139,
+			"speakers": [
+				"MR JUSTICE GOSS",
+				"MR JOHNSON",
+				"MR MYERS"
+			]
+		},
+		{
+			"day": 35,
+			"date": "2022-11-22",
+			"title": "Claire Hocknell, Dr Gail Beech",
+			"section": "Baby F",
+			"filename": "day_035_22-11-2022.pdf",
+			"sourceUrl": "https://lucyletbyinnocence.com/transcripts/day_035_22-11-2022.pdf",
+			"pageCount": 98,
+			"blockCount": 1848,
+			"characterCount": 117183,
+			"speakers": [
+				"MR JOHNSON",
+				"MR JUSTICE GOSS",
+				"HOCKNELL",
+				"JOHNSON",
+				"MR MYERS",
+				"MR ASTBURY",
+				"BEECH",
+				"ASTBURY",
+				"MYERS"
+			]
+		},
+		{
+			"day": 36,
+			"date": "2022-11-23",
+			"title": "Shelley Tomlins, Dr Sally Ogden, Sophie Ellis, Belinda Williamson",
+			"section": "Baby F",
+			"filename": "day_036_23-11-2022.pdf",
+			"sourceUrl": "https://lucyletbyinnocence.com/transcripts/day_036_23-11-2022.pdf",
+			"pageCount": 84,
+			"blockCount": 1421,
+			"characterCount": 121966,
+			"speakers": [
+				"MR ASTBURY",
+				"MR JUSTICE GOSS",
+				"TOMLINS",
+				"ASTBURY",
+				"MR MYERS",
+				"MYERS",
+				"OGDEN",
+				"ELLIS",
+				"WILLIAMSON",
+				"MR JOHNSON"
+			]
+		},
+		{
+			"day": 37,
+			"date": "2022-11-24",
+			"title": "Dr C, Dr John Gibbs, Nurse C",
+			"section": "Baby F",
+			"filename": "day_037_24-11-2022.pdf",
+			"sourceUrl": "https://lucyletbyinnocence.com/transcripts/day_037_24-11-2022.pdf",
+			"pageCount": 72,
+			"blockCount": 1215,
+			"characterCount": 108143,
+			"speakers": [
+				"MR DRIVER",
+				"MR JUSTICE GOSS",
+				"DRIVER",
+				"MR MYERS",
+				"GIBBS",
+				"MYERS"
+			]
+		},
+		{
+			"day": 38,
+			"date": "2022-11-25",
+			"title": "Dr Anna Milan, Prof Peter Hindmarsh, Dr David Harkness",
+			"section": "Baby F",
+			"filename": "day_038_25-11-2022.pdf",
+			"sourceUrl": "https://lucyletbyinnocence.com/transcripts/day_038_25-11-2022.pdf",
+			"pageCount": 64,
+			"blockCount": 955,
+			"characterCount": 105704,
+			"speakers": [
+				"MR JUSTICE GOSS",
+				"MR ASTBURY",
+				"MILAN",
+				"ASTBURY",
+				"MR MYERS",
+				"MYERS",
+				"MR JOHNSON",
+				"HINDMARSH",
+				"JOHNSON",
+				"HARKNESS"
+			]
+		},
+		{
+			"day": 39,
+			"date": "2022-11-28",
+			"title": "Dr Saladi, Dr Alison Ventress, Nurse B, Nurse A",
+			"section": "Baby F",
+			"filename": "day_039_28-11-2022.pdf",
+			"sourceUrl": "https://lucyletbyinnocence.com/transcripts/day_039_28-11-2022.pdf",
+			"pageCount": 99,
+			"blockCount": 1741,
+			"characterCount": 138015,
+			"speakers": [
+				"MR JUSTICE GOSS",
+				"MR DRIVER",
+				"SALADI",
+				"DRIVER",
+				"MR MYERS",
+				"MYERS",
+				"MR ASTBURY",
+				"VENTRESS",
+				"ASTBURY",
+				"JUROR",
+				"MR JOHNSON"
+			]
+		},
+		{
+			"day": 40,
+			"date": "2022-11-29",
+			"title": "Prof Sally Kinsey (Babies A, B, E & F), Pharmacist Ian Allen",
+			"section": "Baby F",
+			"filename": "day_040_29-11-2022.pdf",
+			"sourceUrl": "https://lucyletbyinnocence.com/transcripts/day_040_29-11-2022.pdf",
+			"pageCount": 95,
+			"blockCount": 1514,
+			"characterCount": 144857,
+			"speakers": [
+				"MR JUSTICE GOSS",
+				"MR JOHNSON",
+				"KINSEY",
+				"JOHNSON",
+				"MR MYERS",
+				"MYERS",
+				"MR DRIVER",
+				"ALLEN",
+				"DRIVER"
+			]
+		},
+		{
+			"day": 41,
+			"date": "2022-11-30",
+			"title": "Dr Dewi Evans, Dr Sandie Bohin, Claire Hocknell, Yvonne Griffiths, Kate Brammall, Kate Bissell, Cheryl Cuthbertson-Taylor, Valerie Thomas, Dr Simon Wood (statement), Laura Netherton (statement), Summary of Interview with Lucy Letby",
+			"section": "Baby F",
+			"filename": "day_041_30-11-2022.pdf",
+			"sourceUrl": "https://lucyletbyinnocence.com/transcripts/day_041_30-11-2022.pdf",
+			"pageCount": 59,
+			"blockCount": 1042,
+			"characterCount": 80510,
+			"speakers": [
+				"MR JUSTICE GOSS",
+				"MR DRIVER",
+				"GRIFFITHS",
+				"DRIVER",
+				"MR MYERS",
+				"MYERS",
+				"MR JOHNSON",
+				"BRAMMALL",
+				"JOHNSON",
+				"BISSELL",
+				"CUTHBERTSON-TAYLOR",
+				"THOMAS",
+				"EVANS",
+				"BOHIN",
+				"HOCKNELL"
+			]
+		},
+		{
+			"day": 42,
+			"date": "2022-12-01",
+			"title": "Kate Tyndall, Dr Alison Ventress, Parents' witness statements",
+			"section": "Baby G",
+			"filename": "day_042_01-12-2022.pdf",
+			"sourceUrl": "https://lucyletbyinnocence.com/transcripts/day_042_01-12-2022.pdf",
+			"pageCount": 131,
+			"blockCount": 2315,
+			"characterCount": 176209,
+			"speakers": [
+				"MR JUSTICE GOSS",
+				"MR JOHNSON",
+				"TYNDALL",
+				"JOHNSON",
+				"AXR",
+				"MR MYERS",
+				"MR ASTBURY",
+				"VENTRESS",
+				"ASTBURY",
+				"MYERS"
+			]
+		},
+		{
+			"day": 43,
+			"date": "2022-12-02",
+			"title": "Dr Alison Ventress cont, Vicky Blamire, Nurse E, Ailsa Simpson, Dr Lara Bunni (statement), Valerie Dale (statement)",
+			"section": "Baby G",
+			"filename": "day_043_02-12-2022.pdf",
+			"sourceUrl": "https://lucyletbyinnocence.com/transcripts/day_043_02-12-2022.pdf",
+			"pageCount": 101,
+			"blockCount": 1767,
+			"characterCount": 139912,
+			"speakers": [
+				"MR JUSTICE GOSS",
+				"MR MYERS",
+				"VENTRESS",
+				"MYERS",
+				"MR ASTBURY",
+				"ASTBURY",
+				"MR DRIVER",
+				"BLAMIRE",
+				"DRIVER",
+				"MR JOHNSON",
+				"SIMPSON"
+			]
+		},
+		{
+			"day": 44,
+			"date": "2022-12-05",
+			"title": "Juror off sick",
+			"section": "Baby G",
+			"filename": "day_044_05-12-2022.pdf",
+			"sourceUrl": "https://lucyletbyinnocence.com/transcripts/day_044_05-12-2022.pdf",
+			"pageCount": 15,
+			"blockCount": 169,
+			"characterCount": 28463,
+			"speakers": [
+				"MR JUSTICE GOSS",
+				"MR JOHNSON",
+				"MR MYERS"
+			]
+		},
+		{
+			"day": 45,
+			"date": "2022-12-06",
+			"title": "Witness statements (Valerie Thomas, Lisa Walker, Nurse A, Dr Pek Wan Lee)",
+			"section": "Baby G",
+			"filename": "day_045_06-12-2022.pdf",
+			"sourceUrl": "https://lucyletbyinnocence.com/transcripts/day_045_06-12-2022.pdf",
+			"pageCount": 19,
+			"blockCount": 265,
+			"characterCount": 35075,
+			"speakers": [
+				"MR ASTBURY",
+				"MR JUSTICE GOSS",
+				"MR MAHER",
+				"MR JOHNSON"
+			]
+		},
+		{
+			"day": 46,
+			"date": "2022-12-07",
+			"title": "Juror off sick",
+			"section": "Baby G",
+			"filename": "day_046_07-12-2022.pdf",
+			"sourceUrl": "https://lucyletbyinnocence.com/transcripts/day_046_07-12-2022.pdf",
+			"pageCount": 10,
+			"blockCount": 128,
+			"characterCount": 17066,
+			"speakers": [
+				"MR JUSTICE GOSS",
+				"MR JOHNSON",
+				"MR MYERS",
+				"MR DRIVER",
+				"MR MURPHY"
+			]
+		},
+		{
+			"day": 47,
+			"date": "2022-12-08",
+			"title": "Application by the Defence to admit the RCPCH report into evidence",
+			"section": "Baby G",
+			"filename": "day_047_08-12-2022.pdf",
+			"sourceUrl": "https://lucyletbyinnocence.com/transcripts/day_047_08-12-2022.pdf",
+			"pageCount": 40,
+			"blockCount": 425,
+			"characterCount": 84142,
+			"speakers": [
+				"MR JUSTICE GOSS",
+				"MR MYERS",
+				"MR JOHNSON",
+				"MR MURPHY"
+			]
+		},
+		{
+			"day": 48,
+			"date": "2022-12-12",
+			"title": "Dr Stephen Brearey, Dr David Harkness, Christopher Booth, Dr Dewi Evans, Dr Sandie Bohin",
+			"section": "Baby G",
+			"filename": "day_048_12-12-2022.pdf",
+			"sourceUrl": "https://lucyletbyinnocence.com/transcripts/day_048_12-12-2022.pdf",
+			"pageCount": 113,
+			"blockCount": 1781,
+			"characterCount": 177306,
+			"speakers": [
+				"MR DRIVER",
+				"MR JUSTICE GOSS",
+				"MR MYERS",
+				"BREAREY",
+				"DRIVER",
+				"MYERS",
+				"HARKNESS",
+				"MR ASTBURY",
+				"BOOTH",
+				"ASTBURY",
+				"MR JOHNSON",
+				"EVANS",
+				"JOHNSON",
+				"BOHIN"
+			]
+		},
+		{
+			"day": 49,
+			"date": "2022-12-13",
+			"title": "Dr Sandie Bohin cont., Kate Tyndall, Claire Hocknell, Nurse B, Medical engineer Stuart Eccles (statements)",
+			"section": "Baby G",
+			"filename": "day_049_13-12-2022.pdf",
+			"sourceUrl": "https://lucyletbyinnocence.com/transcripts/day_049_13-12-2022.pdf",
+			"pageCount": 127,
+			"blockCount": 2215,
+			"characterCount": 178705,
+			"speakers": [
+				"MR JUSTICE GOSS",
+				"MR JOHNSON",
+				"BOHIN",
+				"JOHNSON",
+				"MR MYERS",
+				"MYERS",
+				"MR ASTBURY",
+				"TYNDALL",
+				"HOCKNELL",
+				"ASTBURY"
+			]
+		},
+		{
+			"day": 50,
+			"date": "2022-12-14",
+			"title": "Nurse B cont., Dr Peter Fielding, Dr John Gibbs, Caroline Bennion, Eirian Powell Witness Statements (Valerie Thomas, Dr Rachel Chang, Dr Alison Ventress, Prof Simon Kenny, Dr Stavros Stivaros)",
+			"section": "Baby G",
+			"filename": "day_050_14-12-2022.pdf",
+			"sourceUrl": "https://lucyletbyinnocence.com/transcripts/day_050_14-12-2022.pdf",
+			"pageCount": 88,
+			"blockCount": 1487,
+			"characterCount": 127864,
+			"speakers": [
+				"MR JUSTICE GOSS",
+				"MR MYERS",
+				"MYERS",
+				"MR ASTBURY",
+				"ASTBURY",
+				"FIELDING",
+				"GIBBS",
+				"MR JOHNSON",
+				"BENNION",
+				"JOHNSON",
+				"POWELL"
+			]
+		},
+		{
+			"day": 51,
+			"date": "2022-12-15",
+			"title": "Dr David Harkness",
+			"section": "Baby G",
+			"filename": "day_051_15-12-2022.pdf",
+			"sourceUrl": "https://lucyletbyinnocence.com/transcripts/day_051_15-12-2022.pdf",
+			"pageCount": 20,
+			"blockCount": 338,
+			"characterCount": 26458,
+			"speakers": [
+				"MR JOHNSON",
+				"MR JUSTICE GOSS",
+				"MR ASTBURY",
+				"HARKNESS",
+				"ASTBURY",
+				"MR MYERS",
+				"MYERS",
+				"DOCK OFFICER"
+			]
+		},
+		{
+			"day": 52,
+			"date": "2023-01-09",
+			"title": "Application by the Defence to exclude the evidence of Dr Dewi Evans and to introduce evidence of bad character",
+			"section": "Baby G",
+			"filename": "day_052_09-01-2023.pdf",
+			"sourceUrl": "https://lucyletbyinnocence.com/transcripts/day_052_09-01-2023.pdf",
+			"pageCount": 69,
+			"blockCount": 803,
+			"characterCount": 142221,
+			"speakers": [
+				"MR JUSTICE GOSS",
+				"MR MYERS",
+				"MR JOHNSON"
+			]
+		},
+		{
+			"day": 53,
+			"date": "2023-01-10",
+			"title": "Mr Justice Goss: refusal of Defence application, 2 jurors absent",
+			"section": "Baby G",
+			"filename": "day_053_10-01-2023.pdf",
+			"sourceUrl": "https://lucyletbyinnocence.com/transcripts/day_053_10-01-2023.pdf",
+			"pageCount": 10,
+			"blockCount": 133,
+			"characterCount": 18022,
+			"speakers": [
+				"MR JUSTICE GOSS",
+				"MR JOHNSON",
+				"MR MYERS",
+				"JUROR"
+			]
+		},
+		{
+			"day": 54,
+			"date": "2023-01-18",
+			"title": "Dr Dewi Evans, Dr Sandie Bohin, Summary of interview with Lucy Letby. Baby H: Parents' statements, Kate Tyndall, Claire Hocknell",
+			"section": "Baby G",
+			"filename": "day_054_18-01-2023.pdf",
+			"sourceUrl": "https://lucyletbyinnocence.com/transcripts/day_054_18-01-2023.pdf",
+			"pageCount": 118,
+			"blockCount": 2091,
+			"characterCount": 158897,
+			"speakers": [
+				"MR JUSTICE GOSS",
+				"MR JOHNSON",
+				"EVANS",
+				"JOHNSON",
+				"MR MYERS",
+				"MYERS",
+				"BOHIN",
+				"MR DRIVER",
+				"TYNDALL",
+				"JUROR",
+				"HOCKNELL"
+			]
+		},
+		{
+			"day": 55,
+			"date": "2023-01-19",
+			"title": "Dr Alison Ventress, Nurse D, Nurse A. Witness statements (Deborah Moore, Dr Jonathan Ford, Dr Khalil Varghese, Nurse B, Dr David Harkness, Dr Rhiannon Austin, Dr Jessica Scott)",
+			"section": "Baby H",
+			"filename": "day_055_19-01-2023.pdf",
+			"sourceUrl": "https://lucyletbyinnocence.com/transcripts/day_055_19-01-2023.pdf",
+			"pageCount": 105,
+			"blockCount": 1762,
+			"characterCount": 156181,
+			"speakers": [
+				"MR JUSTICE GOSS",
+				"MR ASTBURY",
+				"MR MYERS",
+				"MR DRIVER",
+				"VENTRESS",
+				"DRIVER",
+				"MYERS",
+				"MR JOHNSON"
+			]
+		},
+		{
+			"day": 56,
+			"date": "2023-01-20",
+			"title": "Dr Ravi Jayaram, Dr John Gibbs",
+			"section": "Baby H",
+			"filename": "day_056_20-01-2023.pdf",
+			"sourceUrl": "https://lucyletbyinnocence.com/transcripts/day_056_20-01-2023.pdf",
+			"pageCount": 93,
+			"blockCount": 1372,
+			"characterCount": 157531,
+			"speakers": [
+				"MR JUSTICE GOSS",
+				"MR ASTBURY",
+				"JAYARAM",
+				"ASTBURY",
+				"MR MYERS",
+				"MYERS",
+				"GIBBS",
+				"MR JOHNSON"
+			]
+		},
+		{
+			"day": 57,
+			"date": "2023-01-23",
+			"title": "Shelley Tomlins, Dr Matthew Neame, Dr Satyanarayana Saladi, Christopher Booth, Dr Astha Soni (statement), Dr Sanjeev Rath (statement)",
+			"section": "Baby H",
+			"filename": "day_057_23-01-2023.pdf",
+			"sourceUrl": "https://lucyletbyinnocence.com/transcripts/day_057_23-01-2023.pdf",
+			"pageCount": 84,
+			"blockCount": 1425,
+			"characterCount": 122896,
+			"speakers": [
+				"MR JUSTICE GOSS",
+				"MR DRIVER",
+				"TOMLINS",
+				"DRIVER",
+				"MR MYERS",
+				"MYERS",
+				"MR ASTBURY",
+				"NEAME",
+				"ASTBURY",
+				"SALADI",
+				"BOOTH"
+			]
+		},
+		{
+			"day": 58,
+			"date": "2023-01-24",
+			"title": "Dr Dewi Evans, Dr Sandie Bohin, Summary of interview with Lucy Letby",
+			"section": "Baby H",
+			"filename": "day_058_24-01-2023.pdf",
+			"sourceUrl": "https://lucyletbyinnocence.com/transcripts/day_058_24-01-2023.pdf",
+			"pageCount": 74,
+			"blockCount": 1110,
+			"characterCount": 120821,
+			"speakers": [
+				"MR JUSTICE GOSS",
+				"MR JOHNSON",
+				"EVANS",
+				"JOHNSON",
+				"MR MYERS",
+				"MYERS",
+				"BOHIN"
+			]
+		},
+		{
+			"day": 59,
+			"date": "2023-01-25",
+			"title": "Mother of Baby I (statement x 2), Claire Hocknell, Kate Tyndall, Dr Balamurugan Palanasami (statement)",
+			"section": "Baby I",
+			"filename": "day_059_25-01-2023.pdf",
+			"sourceUrl": "https://lucyletbyinnocence.com/transcripts/day_059_25-01-2023.pdf",
+			"pageCount": 89,
+			"blockCount": 1394,
+			"characterCount": 138532,
+			"speakers": [
+				"MR JOHNSON",
+				"MR JUSTICE GOSS",
+				"MR DRIVER",
+				"HOCKNELL",
+				"JOHNSON",
+				"MR MYERS",
+				"MYERS",
+				"TYNDALL"
+			]
+		},
+		{
+			"day": 60,
+			"date": "2023-01-26",
+			"title": "Bernadette Butterworth, Claire Hocknell, Kate Tyndall. Witness statements (Nurse C, Dr Sally Ogden, Yvonne Griffiths, Nicola Simmons, Lisa Walker, Nurse A, Dr A, Dr David Harkness)",
+			"section": "Baby I",
+			"filename": "day_060_26-01-2023.pdf",
+			"sourceUrl": "https://lucyletbyinnocence.com/transcripts/day_060_26-01-2023.pdf",
+			"pageCount": 94,
+			"blockCount": 1517,
+			"characterCount": 140317,
+			"speakers": [
+				"MR JUSTICE GOSS",
+				"MR MYERS",
+				"MR DRIVER",
+				"MR ASTBURY",
+				"BUTTERWORTH",
+				"ASTBURY",
+				"MYERS",
+				"MR JOHNSON",
+				"HOCKNELL",
+				"JOHNSON",
+				"TYNDALL"
+			]
+		},
+		{
+			"day": 61,
+			"date": "2023-01-27",
+			"title": "Dr Lucy Beebe, Ashleigh Hudson, Dr Matthew Neame",
+			"section": "Baby I",
+			"filename": "day_061_27-01-2023.pdf",
+			"sourceUrl": "https://lucyletbyinnocence.com/transcripts/day_061_27-01-2023.pdf",
+			"pageCount": 96,
+			"blockCount": 1694,
+			"characterCount": 129685,
+			"speakers": [
+				"MR JUSTICE GOSS",
+				"MR ASTBURY",
+				"BEEBE",
+				"ASTBURY",
+				"MR MYERS",
+				"MYERS",
+				"MR DRIVER",
+				"HUDSON",
+				"DRIVER",
+				"NEAME",
+				"MR JOHNSON"
+			]
+		},
+		{
+			"day": 62,
+			"date": "2023-01-31",
+			"title": "Application by the Defence for Disclosure concerning the police investigation and the selection of cases",
+			"section": "Baby I",
+			"filename": "day_062_31-01-2023.pdf",
+			"sourceUrl": "https://lucyletbyinnocence.com/transcripts/day_062_31-01-2023.pdf",
+			"pageCount": 16,
+			"blockCount": 214,
+			"characterCount": 28454,
+			"speakers": [
+				"MR JUSTICE GOSS",
+				"MR MYERS",
+				"MR JOHNSON",
+				"MR DRIVER"
+			]
+		},
+		{
+			"day": 63,
+			"date": "2023-02-01",
+			"title": "Dr Matthew Neame, Dr Elizabeth Newby, Claire Hocknell, Dr Ravi Jayaram, Kate Tyndall. Witness statements (Ekaterina Clegg, Laura Eagles, Caroline Oakley, Dr David Harkness)",
+			"section": "Baby I",
+			"filename": "day_063_01-02-2023.pdf",
+			"sourceUrl": "https://lucyletbyinnocence.com/transcripts/day_063_01-02-2023.pdf",
+			"pageCount": 139,
+			"blockCount": 2460,
+			"characterCount": 184966,
+			"speakers": [
+				"MR JUSTICE GOSS",
+				"MR DRIVER",
+				"NEAME",
+				"DRIVER",
+				"MR MYERS",
+				"MYERS",
+				"MR ASTBURY",
+				"NEWBY",
+				"ASTBURY",
+				"MR JOHNSON",
+				"HOCKNELL",
+				"JOHNSON",
+				"JAYARAM",
+				"TYNDALL",
+				"JUROR"
+			]
+		},
+		{
+			"day": 64,
+			"date": "2023-02-02",
+			"title": "Claire Hocknell, Kate Tyndall, Ashleigh Hudson. Witness Statements (Shelley Tomlins, Joanne Williams, Laura Eagles, Dr David Harkness, Dr Srinvasaro Babarao)",
+			"section": "Baby I",
+			"filename": "day_064_02-02-2023.pdf",
+			"sourceUrl": "https://lucyletbyinnocence.com/transcripts/day_064_02-02-2023.pdf",
+			"pageCount": 111,
+			"blockCount": 1942,
+			"characterCount": 150127,
+			"speakers": [
+				"MR JUSTICE GOSS",
+				"MR ASTBURY",
+				"JUROR",
+				"MR JOHNSON",
+				"HOCKNELL",
+				"JOHNSON",
+				"MS CLANCY",
+				"MR MYERS",
+				"TYNDALL",
+				"MR DRIVER",
+				"HUDSON",
+				"DRIVER",
+				"MYERS"
+			]
+		},
+		{
+			"day": 65,
+			"date": "2023-02-03",
+			"title": "Prof Owen Arthurs on Babies E, F, G, H & I, Dr Rachel Chang. Witness Statement (Caroline Oakley, Dr Bhuvaneshwari Ladde, Christopher Booth, Melanie Taylor, Valerie Thomas)",
+			"section": "Baby I",
+			"filename": "day_065_03-02-2023.pdf",
+			"sourceUrl": "https://lucyletbyinnocence.com/transcripts/day_065_03-02-2023.pdf",
+			"pageCount": 109,
+			"blockCount": 1828,
+			"characterCount": 159472,
+			"speakers": [
+				"MR JUSTICE GOSS",
+				"MR JOHNSON",
+				"ARTHURS",
+				"JOHNSON",
+				"MR MYERS",
+				"MYERS",
+				"MR ASTBURY",
+				"CHANG",
+				"ASTBURY",
+				"MR MAHER"
+			]
+		},
+		{
+			"day": 66,
+			"date": "2023-02-06",
+			"title": "Juror absent (bereavement)",
+			"section": "Baby I",
+			"filename": "day_066_06-02-2023.pdf",
+			"sourceUrl": "https://lucyletbyinnocence.com/transcripts/day_066_06-02-2023.pdf",
+			"pageCount": 3,
+			"blockCount": 40,
+			"characterCount": 4424,
+			"speakers": [
+				"MR JUSTICE GOSS",
+				"MR JOHNSON",
+				"MR MYERS"
+			]
+		},
+		{
+			"day": 67,
+			"date": "2023-02-09",
+			"title": "Dr John Gibbs, Dr Dewi Evans (also includes cross-examination regarding Lord Justice Jackson's criticisms of a previous report), Dr Sandie Bohin",
+			"section": "Baby I",
+			"filename": "day_067_09-02-2023.pdf",
+			"sourceUrl": "https://lucyletbyinnocence.com/transcripts/day_067_09-02-2023.pdf",
+			"pageCount": 108,
+			"blockCount": 1606,
+			"characterCount": 180538,
+			"speakers": [
+				"MR ASTBURY",
+				"GIBBS",
+				"ASTBURY",
+				"MR JUSTICE GOSS",
+				"MR MYERS",
+				"MYERS",
+				"MR JOHNSON",
+				"EVANS",
+				"JOHNSON",
+				"BOHIN"
+			]
+		},
+		{
+			"day": 68,
+			"date": "2023-02-10",
+			"title": "Dr Sandi Bohin cont., Summary of interview with Lucy Letby. Baby J: Mother of Baby J, Kate Tyndall",
+			"section": "Baby I",
+			"filename": "day_068_10-02-2023.pdf",
+			"sourceUrl": "https://lucyletbyinnocence.com/transcripts/day_068_10-02-2023.pdf",
+			"pageCount": 122,
+			"blockCount": 2090,
+			"characterCount": 171325,
+			"speakers": [
+				"MR JUSTICE GOSS",
+				"MR JOHNSON",
+				"BOHIN",
+				"JOHNSON",
+				"MR MYERS",
+				"MYERS",
+				"TYNDALL"
+			]
+		},
+		{
+			"day": 69,
+			"date": "2023-02-13",
+			"title": "Kate Tyndall, Claire Hocknell, Mary Griffith, Dr John Gibbs, Dr Stephen Brearey. Witness statements (Dr Rhiannon Austin, Dr Daphne Chong, Dr Sarah Wood, Caroline Oakley, Dr Rachel Chang, Ailsa Simpson)",
+			"section": "Baby J",
+			"filename": "day_069_13-02-2023.pdf",
+			"sourceUrl": "https://lucyletbyinnocence.com/transcripts/day_069_13-02-2023.pdf",
+			"pageCount": 89,
+			"blockCount": 1403,
+			"characterCount": 140821,
+			"speakers": [
+				"MR JOHNSON",
+				"MR JUSTICE GOSS",
+				"TYNDALL",
+				"JOHNSON",
+				"MR MYERS",
+				"HOCKNELL",
+				"MR DRIVER",
+				"MR ASTBURY",
+				"GRIFFITH",
+				"ASTBURY",
+				"MYERS",
+				"GIBBS",
+				"DRIVER",
+				"BREAREY"
+			]
+		},
+		{
+			"day": 70,
+			"date": "2023-02-14",
+			"title": "Nicola Dennison, Dr Kaliyilil Verghese, Dr Dewi Evans, Dr Sandie Bohin, Claire Hocknell, Summary of interview with Lucy Letby",
+			"section": "Baby J",
+			"filename": "day_070_14-02-2023.pdf",
+			"sourceUrl": "https://lucyletbyinnocence.com/transcripts/day_070_14-02-2023.pdf",
+			"pageCount": 75,
+			"blockCount": 1256,
+			"characterCount": 108445,
+			"speakers": [
+				"MR ASTBURY",
+				"DENNISON",
+				"ASTBURY",
+				"MR JUSTICE GOSS",
+				"MR MYERS",
+				"MYERS",
+				"MR DRIVER",
+				"VERGHESE",
+				"DRIVER",
+				"MR JOHNSON",
+				"EVANS",
+				"JOHNSON",
+				"BOHIN",
+				"HOCKNELL"
+			]
+		},
+		{
+			"day": 71,
+			"date": "2023-02-15",
+			"title": "Parents of Babies L&M (statement), Midwife Susanne Boggan (statement), Baby L: Dr Sudeshna Bhowmik, Amy Davies, Dr Anthony Ukoh",
+			"section": "Babies L & M",
+			"filename": "day_071_15-02-2023.pdf",
+			"sourceUrl": "https://lucyletbyinnocence.com/transcripts/day_071_15-02-2023.pdf",
+			"pageCount": 110,
+			"blockCount": 1924,
+			"characterCount": 149521,
+			"speakers": [
+				"MR JUSTICE GOSS",
+				"MR JOHNSON",
+				"TYNDALL",
+				"JOHNSON",
+				"MR DRIVER",
+				"BHOWMIK",
+				"DRIVER",
+				"MR MYERS",
+				"MYERS",
+				"MR ASTBURY",
+				"DAVIES",
+				"ASTBURY",
+				"UKOH"
+			]
+		},
+		{
+			"day": 72,
+			"date": "2023-02-16",
+			"title": "Babies L&M: Mary Griffith, Belinda Williamson. Baby L: Tracey Jones, Dr A, Dr John Gibbs",
+			"section": "Babies L & M",
+			"filename": "day_072_16-02-2023.pdf",
+			"sourceUrl": "https://lucyletbyinnocence.com/transcripts/day_072_16-02-2023.pdf",
+			"pageCount": 120,
+			"blockCount": 2184,
+			"characterCount": 155900,
+			"speakers": [
+				"MR ASTBURY",
+				"MR JUSTICE GOSS",
+				"JONES",
+				"ASTBURY",
+				"MR MYERS",
+				"MYERS",
+				"MR JOHNSON",
+				"GRIFFITH",
+				"MR DRIVER",
+				"WILLIAMSON",
+				"DRIVER",
+				"GIBBS"
+			]
+		},
+		{
+			"day": 73,
+			"date": "2023-02-20",
+			"title": "Baby L: Anna Milan, Dr Gwen Wark, Witness statements (Dr Sarah Davies, Karen Morris, Ian Allen, Dr Stephen Brearey, Gemma Webster), Summary of interview with Lucy Letby. Baby M: Kate Tyndall",
+			"section": "Babies L & M",
+			"filename": "day_073_20-02-2023.pdf",
+			"sourceUrl": "https://lucyletbyinnocence.com/transcripts/day_073_20-02-2023.pdf",
+			"pageCount": 92,
+			"blockCount": 1631,
+			"characterCount": 119165,
+			"speakers": [
+				"MR JUSTICE GOSS",
+				"MR ASTBURY",
+				"MILAN",
+				"ASTBURY",
+				"MR MYERS",
+				"MYERS",
+				"WARK",
+				"MR DRIVER",
+				"MR JOHNSON",
+				"TYNDALL",
+				"JOHNSON"
+			]
+		},
+		{
+			"day": 74,
+			"date": "2023-02-21",
+			"title": "Babies L&M: Mary Griffith, Nurse B. Baby M: Dr Anthony Ukoh",
+			"section": "Babies L & M",
+			"filename": "day_074_21-02-2023.pdf",
+			"sourceUrl": "https://lucyletbyinnocence.com/transcripts/day_074_21-02-2023.pdf",
+			"pageCount": 77,
+			"blockCount": 1352,
+			"characterCount": 106170,
+			"speakers": [
+				"MR MYERS",
+				"MR JUSTICE GOSS",
+				"MR DRIVER",
+				"GRIFFITH",
+				"DRIVER",
+				"MYERS",
+				"UKOH"
+			]
+		},
+		{
+			"day": 75,
+			"date": "2023-02-22",
+			"title": "Baby M: Dr Ravi Jayaram, Dr A, Belinda Williamson, Ashleigh Hudson (statement), Dr Cassandra Barrett (statement), Samantha O'Brien (statement), Laura Eagles (statement), Baby L: Valerie Thomas, Bernadette Butterworth,",
+			"section": "Babies L & M",
+			"filename": "day_075_22-02-2023.pdf",
+			"sourceUrl": "https://lucyletbyinnocence.com/transcripts/day_075_22-02-2023.pdf",
+			"pageCount": 70,
+			"blockCount": 1147,
+			"characterCount": 105670,
+			"speakers": [
+				"MR ASTBURY",
+				"WILLIAMSON",
+				"ASTBURY",
+				"MR JUSTICE GOSS",
+				"MR MYERS",
+				"MYERS",
+				"JAYARAM",
+				"BUTTERWORTH",
+				"THOMAS"
+			]
+		},
+		{
+			"day": 76,
+			"date": "2023-02-23",
+			"title": "Baby M: Dr John Gibbs, Dr Dewi Evans, Dr Sandie Bohin, Dr Arjamand Shauq (statement), Dr Stavros Stivaros (Statement), Summary of interview with Lucy Letby, Baby L: Minna Lappalainen, Clare Bevan, Ashleigh Hudson, Lisa Walker.",
+			"section": "Babies L & M",
+			"filename": "day_076_23-02-2023.pdf",
+			"sourceUrl": "https://lucyletbyinnocence.com/transcripts/day_076_23-02-2023.pdf",
+			"pageCount": 80,
+			"blockCount": 1250,
+			"characterCount": 126848,
+			"speakers": [
+				"MR JUSTICE GOSS",
+				"MR ASTBURY",
+				"GIBBS",
+				"ASTBURY",
+				"MR MYERS",
+				"LAPPALAINEN",
+				"BEVAN",
+				"HUDSON",
+				"MR JOHNSON",
+				"MR DRIVER",
+				"WALKER",
+				"EVANS",
+				"JOHNSON",
+				"MYERS",
+				"BOHIN",
+				"MR MURPHY"
+			]
+		},
+		{
+			"day": 77,
+			"date": "2023-02-24",
+			"title": "Baby L: Dr Emma Lewis, Prof Peter Hindmarsh, Dr Dewi Evans",
+			"section": "Babies L & M",
+			"filename": "day_077_24-02-2023.pdf",
+			"sourceUrl": "https://lucyletbyinnocence.com/transcripts/day_077_24-02-2023.pdf",
+			"pageCount": 78,
+			"blockCount": 1254,
+			"characterCount": 118836,
+			"speakers": [
+				"MR DRIVER",
+				"LEWIS",
+				"DRIVER",
+				"MR JUSTICE GOSS",
+				"MR MYERS",
+				"MYERS",
+				"MR JOHNSON",
+				"HINDMARSH",
+				"JOHNSON",
+				"MR ASTBURY",
+				"EVANS",
+				"MR MAHER"
+			]
+		},
+		{
+			"day": 78,
+			"date": "2023-02-27",
+			"title": "Kate Tyndall, Claire Hocknell, Dr Jonathan Ford (Statement), Dr James Smith, Joanne Williams",
+			"section": "Baby K",
+			"filename": "day_078_27-02-2023.pdf",
+			"sourceUrl": "https://lucyletbyinnocence.com/transcripts/day_078_27-02-2023.pdf",
+			"pageCount": 110,
+			"blockCount": 1676,
+			"characterCount": 178443,
+			"speakers": [
+				"MR JUSTICE GOSS",
+				"MR JOHNSON",
+				"MR DRIVER",
+				"TYNDALL",
+				"JOHNSON",
+				"MR MYERS",
+				"HOCKNELL",
+				"SMITH",
+				"DRIVER",
+				"MYERS",
+				"MR ASTBURY",
+				"WILLIAMS",
+				"ASTBURY"
+			]
+		},
+		{
+			"day": 79,
+			"date": "2023-02-28",
+			"title": "Joanne Williams cont., Dr Ravi Jayaram, Elizabeth Morgan (statement), Dr Srinvasaro Babarao",
+			"section": "Baby K",
+			"filename": "day_079_28-02-2023.pdf",
+			"sourceUrl": "https://lucyletbyinnocence.com/transcripts/day_079_28-02-2023.pdf",
+			"pageCount": 145,
+			"blockCount": 2358,
+			"characterCount": 220439,
+			"speakers": [
+				"MR JUSTICE GOSS",
+				"MR ASTBURY",
+				"WILLIAMS",
+				"ASTBURY",
+				"MR MYERS",
+				"MYERS",
+				"JAYARAM",
+				"BABARAO"
+			]
+		},
+		{
+			"day": 80,
+			"date": "2023-03-01",
+			"title": "Nurse B, Witness Statements (Dr A, Caroline Oakley, Melanie Taylor, Nurse D, Sophie Ellis, Stuart Eccles, Dr Anand Kamalanathan, Dr Danielle Gardner), Summary interview with Lucy Letby",
+			"section": "Baby K",
+			"filename": "day_080_01-03-2023.pdf",
+			"sourceUrl": "https://lucyletbyinnocence.com/transcripts/day_080_01-03-2023.pdf",
+			"pageCount": 35,
+			"blockCount": 450,
+			"characterCount": 66586,
+			"speakers": [
+				"MR DRIVER",
+				"DRIVER",
+				"MR JUSTICE GOSS",
+				"MR MYERS",
+				"MYERS",
+				"MR JOHNSON"
+			]
+		},
+		{
+			"day": 81,
+			"date": "2023-03-02",
+			"title": "Parents' statements, Claire Hocknell, Kate Tyndall, Dr Jennifer Loughnane, Witness statements (Dr Sudeshna Bhowmik, Caroline Oakley, Melanie Taylor, Sophie Ellis, Christopher Booth, Valerie Thomas), Claire Hocknell",
+			"section": "Baby N",
+			"filename": "day_081_02-03-2023.pdf",
+			"sourceUrl": "https://lucyletbyinnocence.com/transcripts/day_081_02-03-2023.pdf",
+			"pageCount": 110,
+			"blockCount": 1921,
+			"characterCount": 150473,
+			"speakers": [
+				"MR JUSTICE GOSS",
+				"MR ASTBURY",
+				"MR JOHNSON",
+				"HOCKNELL",
+				"JOHNSON",
+				"TYNDALL",
+				"MR MYERS",
+				"LOUGHNANE",
+				"ASTBURY",
+				"MYERS"
+			]
+		},
+		{
+			"day": 82,
+			"date": "2023-03-03",
+			"title": "Claire Hocknell cont., Kate Tyndall, Jennifer Jones-Key, Kathryn Percival-Calderbank, Dr D",
+			"section": "Baby N",
+			"filename": "day_082_03-03-2023.pdf",
+			"sourceUrl": "https://lucyletbyinnocence.com/transcripts/day_082_03-03-2023.pdf",
+			"pageCount": 94,
+			"blockCount": 1768,
+			"characterCount": 115130,
+			"speakers": [
+				"MR JUSTICE GOSS",
+				"MR JOHNSON",
+				"HOCKNELL",
+				"JOHNSON",
+				"MR MYERS",
+				"TYNDALL",
+				"MR ASTBURY",
+				"JONES-KEY",
+				"ASTBURY",
+				"MYERS",
+				"MR DRIVER",
+				"PERCIVAL-CALDERBANK",
+				"DRIVER"
+			]
+		},
+		{
+			"day": 83,
+			"date": "2023-03-06",
+			"title": "Dr Huw Mayberry, Dr A, Dr John Gibbs, Dr Stephen Brearey, Dr Francis Potter",
+			"section": "Baby N",
+			"filename": "day_083_06-03-2023.pdf",
+			"sourceUrl": "https://lucyletbyinnocence.com/transcripts/day_083_06-03-2023.pdf",
+			"pageCount": 116,
+			"blockCount": 1817,
+			"characterCount": 183874,
+			"speakers": [
+				"MR DRIVER",
+				"MAYBERRY",
+				"DRIVER",
+				"MR JUSTICE GOSS",
+				"MR MYERS",
+				"MYERS",
+				"GIBBS",
+				"MR ASTBURY",
+				"BREAREY",
+				"ASTBURY",
+				"POTTER"
+			]
+		},
+		{
+			"day": 84,
+			"date": "2023-03-07",
+			"title": "Prof Sally Kinsey, Dr Dewi Evans, Dr Sandie Bohin, Witness statements (Dr Andrew Henton, Bernadette Butterworth, Dr Anthony Ukoh, Dr Satyanarayana Saladi, Nurse B, Elizabeth Morgan, Dr Benjamin Lakin, Dr Chris Goodman, Dr Nora Rodriquez)",
+			"section": "Baby N",
+			"filename": "day_084_07-03-2023.pdf",
+			"sourceUrl": "https://lucyletbyinnocence.com/transcripts/day_084_07-03-2023.pdf",
+			"pageCount": 106,
+			"blockCount": 1556,
+			"characterCount": 181694,
+			"speakers": [
+				"MR JUSTICE GOSS",
+				"MR ASTBURY",
+				"MR JOHNSON",
+				"KINSEY",
+				"JOHNSON",
+				"MR MYERS",
+				"MYERS",
+				"EVANS",
+				"BOHIN"
+			]
+		},
+		{
+			"day": 85,
+			"date": "2023-03-08",
+			"title": "Sophie Ellis, Kate Tyndall (Police Analyst). Witness statements: Mother, Father & Grandmother of Babies O, P & R, Dr D, Kate Bissell",
+			"section": "Baby O",
+			"filename": "day_085_08-03-2023.pdf",
+			"sourceUrl": "https://lucyletbyinnocence.com/transcripts/day_085_08-03-2023.pdf",
+			"pageCount": 117,
+			"blockCount": 1976,
+			"characterCount": 169412,
+			"speakers": [
+				"MR JUSTICE GOSS",
+				"MR JOHNSON",
+				"MR DRIVER",
+				"TYNDALL",
+				"JOHNSON",
+				"MR MYERS",
+				"ELLIS",
+				"DRIVER",
+				"MYERS"
+			]
+		},
+		{
+			"day": 86,
+			"date": "2023-03-09",
+			"title": "Dr Huw Mayberry, Dr Katarzyna Cooker, Melanie Taylor",
+			"section": "Baby O",
+			"filename": "day_086_09-03-2023.pdf",
+			"sourceUrl": "https://lucyletbyinnocence.com/transcripts/day_086_09-03-2023.pdf",
+			"pageCount": 62,
+			"blockCount": 1061,
+			"characterCount": 86489,
+			"speakers": [
+				"MR DRIVER",
+				"MAYBERRY",
+				"DRIVER",
+				"MR JUSTICE GOSS",
+				"JUROR",
+				"MR MYERS",
+				"MYERS",
+				"MR ASTBURY",
+				"COOKE",
+				"ASTBURY",
+				"MR JOHNSON",
+				"DOCK OFFICER",
+				"TAYLOR"
+			]
+		},
+		{
+			"day": 88,
+			"date": "2023-03-14",
+			"title": "Dr Stephen Brearey, Dr B, Witness Statements: Amy Davies, Caroline Oakley, Vicky Blamire, Yvonne Farmer, Samantha O'Brien, Yvonne Griffiths, Dr John Gibbs, Dr Sudeshna Bhowmik, Christopher Booth",
+			"section": "Baby O",
+			"filename": "day_088_14-03-2023.pdf",
+			"sourceUrl": "https://lucyletbyinnocence.com/transcripts/day_088_14-03-2023.pdf",
+			"pageCount": 87,
+			"blockCount": 1218,
+			"characterCount": 154976,
+			"speakers": [
+				"MR JUSTICE GOSS",
+				"MR MYERS",
+				"MR DRIVER",
+				"MR ASTBURY",
+				"BREAREY",
+				"DRIVER",
+				"MYERS",
+				"ASTBURY"
+			]
+		},
+		{
+			"day": 89,
+			"date": "2023-03-15",
+			"title": "Dr A, Dr Oliver Rackham (Statement), Dr Dewi Evans, Dr Sandie Bohin",
+			"section": "Baby O",
+			"filename": "day_089_15-03-2023.pdf",
+			"sourceUrl": "https://lucyletbyinnocence.com/transcripts/day_089_15-03-2023.pdf",
+			"pageCount": 114,
+			"blockCount": 1739,
+			"characterCount": 185175,
+			"speakers": [
+				"MR JUSTICE GOSS",
+				"MR DRIVER",
+				"DRIVER",
+				"MR MYERS",
+				"MYERS",
+				"MR JOHNSON",
+				"EVANS",
+				"JOHNSON",
+				"BOHIN"
+			]
+		},
+		{
+			"day": 90,
+			"date": "2023-03-16",
+			"title": "Prof Owen Arthurs, [Claire Hocknell - Baby P Sequence of Events]",
+			"section": "Radiology - Babies J, K, L, M, N, O, & P",
+			"filename": "day_090_16-03-2023.pdf",
+			"sourceUrl": "https://lucyletbyinnocence.com/transcripts/day_090_16-03-2023.pdf",
+			"pageCount": 96,
+			"blockCount": 1660,
+			"characterCount": 131576,
+			"speakers": [
+				"MR JOHNSON",
+				"MR JUSTICE GOSS",
+				"MR MYERS",
+				"HOCKNELL",
+				"JOHNSON",
+				"MR ASTBURY",
+				"MR MAHER",
+				"ARTHURS",
+				"MYERS"
+			]
+		},
+		{
+			"day": 91,
+			"date": "2023-03-20",
+			"title": "Claire Hocknell, Kate Tyndall, Dr A, Dr Anthony Ukoh, Sophie Ellis",
+			"section": "Baby P",
+			"filename": "day_091_20-03-2023.pdf",
+			"sourceUrl": "https://lucyletbyinnocence.com/transcripts/day_091_20-03-2023.pdf",
+			"pageCount": 120,
+			"blockCount": 2089,
+			"characterCount": 168501,
+			"speakers": [
+				"MR JUSTICE GOSS",
+				"MR JOHNSON",
+				"HOCKNELL",
+				"JOHNSON",
+				"MR MYERS",
+				"TYNDALL",
+				"MYERS",
+				"MR DRIVER",
+				"DRIVER",
+				"MR ASTBURY",
+				"UKOH",
+				"ASTBURY",
+				"ELLIS"
+			]
+		},
+		{
+			"day": 92,
+			"date": "2023-03-21",
+			"title": "Dr Huw Mayberry, Kathryn Percival-Calderbank, Christopher Booth, Dr B, Witness statements (Dr Katarzyna Cooke, Yvonne Farmer)",
+			"section": "Baby P",
+			"filename": "day_092_21-03-2023.pdf",
+			"sourceUrl": "https://lucyletbyinnocence.com/transcripts/day_092_21-03-2023.pdf",
+			"pageCount": 122,
+			"blockCount": 1934,
+			"characterCount": 192878,
+			"speakers": [
+				"MR DRIVER",
+				"MAYBERRY",
+				"DRIVER",
+				"MR JUSTICE GOSS",
+				"MR MYERS",
+				"MYERS",
+				"MR ASTBURY",
+				"PERCIVAL-CALDERBANK",
+				"ASTBURY",
+				"BOOTH",
+				"MR JOHNSON"
+			]
+		},
+		{
+			"day": 93,
+			"date": "2023-03-22",
+			"title": "Dr John Gibbs, Rebecca Morgan, Dr Stephen Brearey, Dr Oliver Rackham, Dr Dewi EVans",
+			"section": "Baby P",
+			"filename": "day_093_22-03-2023.pdf",
+			"sourceUrl": "https://lucyletbyinnocence.com/transcripts/day_093_22-03-2023.pdf",
+			"pageCount": 110,
+			"blockCount": 1807,
+			"characterCount": 163681,
+			"speakers": [
+				"MR JUSTICE GOSS",
+				"MR DRIVER",
+				"GIBBS",
+				"DRIVER",
+				"MR MYERS",
+				"MYERS",
+				"MR ASTBURY",
+				"MORGAN",
+				"ASTBURY",
+				"BREAREY",
+				"RACKHAM",
+				"MR JOHNSON",
+				"EVANS",
+				"JOHNSON"
+			]
+		},
+		{
+			"day": 94,
+			"date": "2023-03-23",
+			"title": "Dr Dewi Evans cont., Dr Sandie Bohin",
+			"section": "Baby P",
+			"filename": "day_094_23-03-2023.pdf",
+			"sourceUrl": "https://lucyletbyinnocence.com/transcripts/day_094_23-03-2023.pdf",
+			"pageCount": 77,
+			"blockCount": 1176,
+			"characterCount": 124614,
+			"speakers": [
+				"MR JOHNSON",
+				"MR JUSTICE GOSS",
+				"MR MYERS",
+				"EVANS",
+				"MYERS",
+				"BOHIN",
+				"JOHNSON"
+			]
+		},
+		{
+			"day": 95,
+			"date": "2023-03-24",
+			"title": "Housekeeping",
+			"section": "Baby P",
+			"filename": "day_095_24-03-2023.pdf",
+			"sourceUrl": "https://lucyletbyinnocence.com/transcripts/day_095_24-03-2023.pdf",
+			"pageCount": 3,
+			"blockCount": 41,
+			"characterCount": 3857,
+			"speakers": [
+				"MR JUSTICE GOSS",
+				"MR MYERS",
+				"MR JOHNSON"
+			]
+		},
+		{
+			"day": 96,
+			"date": "2023-03-28",
+			"title": "Juror off sick",
+			"section": "Baby P",
+			"filename": "day_096_28-03-2023.pdf",
+			"sourceUrl": "https://lucyletbyinnocence.com/transcripts/day_096_28-03-2023.pdf",
+			"pageCount": 2,
+			"blockCount": 30,
+			"characterCount": 2365,
+			"speakers": [
+				"MR JUSTICE GOSS",
+				"MR JOHNSON",
+				"MR MYERS"
+			]
+		},
+		{
+			"day": 97,
+			"date": "2023-03-29",
+			"title": "Statement of agreed pathology facts (post-mortem reports), Dr Andreas Marnerides",
+			"section": "Pathology - Babies A, C, D, I, O & P",
+			"filename": "day_097_29-03-2023.pdf",
+			"sourceUrl": "https://lucyletbyinnocence.com/transcripts/day_097_29-03-2023.pdf",
+			"pageCount": 89,
+			"blockCount": 1275,
+			"characterCount": 151153,
+			"speakers": [
+				"MR JUSTICE GOSS",
+				"MR DRIVER",
+				"MARNERIDES",
+				"MR MYERS",
+				"MR JOHNSON",
+				"JOHNSON"
+			]
+		},
+		{
+			"day": 98,
+			"date": "2023-03-30",
+			"title": "Dr Andreas Marnerides cont.",
+			"section": "Pathology - Babies A, C, D, I, O & P",
+			"filename": "day_098_30-03-2023.pdf",
+			"sourceUrl": "https://lucyletbyinnocence.com/transcripts/day_098_30-03-2023.pdf",
+			"pageCount": 86,
+			"blockCount": 1301,
+			"characterCount": 143546,
+			"speakers": [
+				"MR JOHNSON",
+				"MARNERIDES",
+				"JOHNSON",
+				"MR JUSTICE GOSS",
+				"MR MYERS",
+				"MYERS",
+				"JUROR"
+			]
+		},
+		{
+			"day": 99,
+			"date": "2023-03-31",
+			"title": "Parents' statements, Kate Tyndall, Tanya Downes, Susan Dillon (statement), Christopher Booth (statement),",
+			"section": "Baby Q",
+			"filename": "day_099_31-03-2023.pdf",
+			"sourceUrl": "https://lucyletbyinnocence.com/transcripts/day_099_31-03-2023.pdf",
+			"pageCount": 86,
+			"blockCount": 1515,
+			"characterCount": 113054,
+			"speakers": [
+				"MR MYERS",
+				"MR JUSTICE GOSS",
+				"MR DRIVER",
+				"MR JOHNSON",
+				"TYNDALL",
+				"JOHNSON",
+				"MR ASTBURY",
+				"DOWNES",
+				"ASTBURY",
+				"MYERS"
+			]
+		},
+		{
+			"day": 101,
+			"date": "2023-04-04",
+			"title": "Juror off sick",
+			"section": "Baby Q",
+			"filename": "day_101_04-04-2023.pdf",
+			"sourceUrl": "https://lucyletbyinnocence.com/transcripts/day_101_04-04-2023.pdf",
+			"pageCount": 3,
+			"blockCount": 48,
+			"characterCount": 3922,
+			"speakers": [
+				"MR JUSTICE GOSS",
+				"MR JOHNSON",
+				"MR MYERS"
+			]
+		},
+		{
+			"day": 102,
+			"date": "2023-04-05",
+			"title": "Dr A, Dr John Gibbs, Dr Stavros Stivaros (Expert witness report), Dr Dewi Evans, Witness statements (Nurse B, Amy Davies, Kate Bissell, Dr Benjamin Lakin, Dr Katherine Davis, Dr Howyada Isaac)",
+			"section": "Baby Q",
+			"filename": "day_102_05-04-2023.pdf",
+			"sourceUrl": "https://lucyletbyinnocence.com/transcripts/day_102_05-04-2023.pdf",
+			"pageCount": 106,
+			"blockCount": 1666,
+			"characterCount": 168787,
+			"speakers": [
+				"MR DRIVER",
+				"DRIVER",
+				"MR MYERS",
+				"MYERS",
+				"MR JUSTICE GOSS",
+				"MR ASTBURY",
+				"GIBBS",
+				"ASTBURY",
+				"MR JOHNSON",
+				"EVANS",
+				"JOHNSON"
+			]
+		},
+		{
+			"day": 103,
+			"date": "2023-04-06",
+			"title": "Dr Sandie Bohin, Summary of interview with Lucy Letby, [Claire Hocknell - Lucy Letby's texts and messages in the period after Baby Q]",
+			"section": "Baby Q",
+			"filename": "day_103_06-04-2023.pdf",
+			"sourceUrl": "https://lucyletbyinnocence.com/transcripts/day_103_06-04-2023.pdf",
+			"pageCount": 56,
+			"blockCount": 897,
+			"characterCount": 87044,
+			"speakers": [
+				"MR JUSTICE GOSS",
+				"MR JOHNSON",
+				"MR MYERS",
+				"BOHIN",
+				"JOHNSON",
+				"MYERS",
+				"HOCKNELL"
+			]
+		},
+		{
+			"day": 104,
+			"date": "2023-04-17",
+			"title": "Arrests, House Searches & Exibits, Police Interviews (Baby A)",
+			"section": "Arrests, House Searches/Exhibits, Police Interviews",
+			"filename": "day_104_17-04-2023.pdf",
+			"sourceUrl": "https://lucyletbyinnocence.com/transcripts/day_104_17-04-2023.pdf",
+			"pageCount": 57,
+			"blockCount": 1251,
+			"characterCount": 86455,
+			"speakers": [
+				"MR JUSTICE GOSS",
+				"MR ASTBURY",
+				"DC JOHNSON",
+				"ASTBURY",
+				"MR MYERS",
+				"MR JOHNSON",
+				"MYERS",
+				"STONIER"
+			]
+		},
+		{
+			"day": 105,
+			"date": "2023-04-19",
+			"title": "Juror off sick, Submissions regarding the evidence of Eirian Powell",
+			"section": "Arrests, House Searches/Exhibits, Police Interviews",
+			"filename": "day_105_19-04-2023.pdf",
+			"sourceUrl": "https://lucyletbyinnocence.com/transcripts/day_105_19-04-2023.pdf",
+			"pageCount": 20,
+			"blockCount": 265,
+			"characterCount": 36249,
+			"speakers": [
+				"MR JUSTICE GOSS",
+				"MR JOHNSON",
+				"MR MYERS",
+				"DOCK OFFICER",
+				"MR ASTBURY"
+			]
+		},
+		{
+			"day": 106,
+			"date": "2023-04-20",
+			"title": "Prof Owen Arthurs (Baby Q), Police Interviews (Babies A-H)",
+			"section": "Arrests, House Searches/Exhibits, Police Interviews",
+			"filename": "day_106_20-04-2023.pdf",
+			"sourceUrl": "https://lucyletbyinnocence.com/transcripts/day_106_20-04-2023.pdf",
+			"pageCount": 156,
+			"blockCount": 2876,
+			"characterCount": 197935,
+			"speakers": [
+				"MR JOHNSON",
+				"ARTHURS",
+				"JOHNSON",
+				"MR MYERS",
+				"MYERS",
+				"MR JUSTICE GOSS",
+				"MR ASTBURY",
+				"STONIER",
+				"ASTBURY"
+			]
+		},
+		{
+			"day": 107,
+			"date": "2023-04-25",
+			"title": "Police Interviews (Babies I-P), Submissions regarding the evidence of Eirian Powell",
+			"section": "Arrests, House Searches/Exhibits, Police Interviews",
+			"filename": "day_107_25-04-2023.pdf",
+			"sourceUrl": "https://lucyletbyinnocence.com/transcripts/day_107_25-04-2023.pdf",
+			"pageCount": 154,
+			"blockCount": 2686,
+			"characterCount": 214365,
+			"speakers": [
+				"MR ASTBURY",
+				"MR JUSTICE GOSS",
+				"STONIER",
+				"ASTBURY",
+				"MR MYERS",
+				"MR JOHNSON"
+			]
+		},
+		{
+			"day": 108,
+			"date": "2023-04-27",
+			"title": "Police Interviews (Baby Q & general matters), Eirian Powell, Summary of Agreed Facts including police interviews, exhibits & staff presence",
+			"section": "Arrests, House Searches/Exhibits, Police Interviews",
+			"filename": "day_108_27-04-2023.pdf",
+			"sourceUrl": "https://lucyletbyinnocence.com/transcripts/day_108_27-04-2023.pdf",
+			"pageCount": 114,
+			"blockCount": 2028,
+			"characterCount": 156852,
+			"speakers": [
+				"MR JUSTICE GOSS",
+				"MR MYERS",
+				"MR JOHNSON",
+				"MR ASTBURY",
+				"STONIER",
+				"ASTBURY",
+				"MYERS",
+				"POWELL",
+				"JOHNSON"
+			]
+		},
+		{
+			"day": 109,
+			"date": "2023-04-28",
+			"title": "Submission of No Case To Answer",
+			"section": "Application by the Defence",
+			"filename": "day_109_28-04-2023.pdf",
+			"sourceUrl": "https://lucyletbyinnocence.com/transcripts/day_109_28-04-2023.pdf",
+			"pageCount": 47,
+			"blockCount": 503,
+			"characterCount": 99583,
+			"speakers": [
+				"MR JUSTICE GOSS",
+				"MR MYERS",
+				"MR JOHNSON",
+				"MEMBER OF THE PRESS"
+			]
+		},
+		{
+			"day": 110,
+			"date": "2023-05-02",
+			"title": "Day 1 - Background and general topics.",
+			"section": "Lucy Letby - Examination-in-chief by Ben Myers LC",
+			"filename": "day_110_02-05-2023.pdf",
+			"sourceUrl": "https://lucyletbyinnocence.com/transcripts/day_110_02-05-2023.pdf",
+			"pageCount": 131,
+			"blockCount": 2411,
+			"characterCount": 170678,
+			"speakers": [
+				"MR JUSTICE GOSS",
+				"MR MYERS",
+				"LETBY",
+				"MYERS",
+				"MR JOHNSON"
+			]
+		},
+		{
+			"day": 111,
+			"date": "2023-05-05",
+			"title": "Day 2 - Babies A, B, C, D, E & F",
+			"section": "Lucy Letby - Examination-in-chief by Ben Myers LC",
+			"filename": "day_111_05-05-2023.pdf",
+			"sourceUrl": "https://lucyletbyinnocence.com/transcripts/day_111_05-05-2023.pdf",
+			"pageCount": 122,
+			"blockCount": 2179,
+			"characterCount": 166238,
+			"speakers": [
+				"MR JUSTICE GOSS",
+				"MR JOHNSON",
+				"MR MYERS",
+				"LETBY",
+				"MYERS",
+				"MEMBER OF THE PRESS"
+			]
+		},
+		{
+			"day": 112,
+			"date": "2023-05-11",
+			"title": "Juror off sick",
+			"section": "Lucy Letby - Examination-in-chief by Ben Myers LC",
+			"filename": "day_112_11-05-2023.pdf",
+			"sourceUrl": "https://lucyletbyinnocence.com/transcripts/day_112_11-05-2023.pdf",
+			"pageCount": 7,
+			"blockCount": 101,
+			"characterCount": 10387,
+			"speakers": [
+				"MR JUSTICE GOSS",
+				"MR JOHNSON",
+				"MR MYERS",
+				"MR ASTBURY",
+				"MEMBER OF THE PRESS",
+				"THE PRESS"
+			]
+		},
+		{
+			"day": 113,
+			"date": "2023-05-15",
+			"title": "Day 3 - Babies F, G, H & I",
+			"section": "Lucy Letby - Examination-in-chief by Ben Myers LC",
+			"filename": "day_113_15-05-2023.pdf",
+			"sourceUrl": "https://lucyletbyinnocence.com/transcripts/day_113_15-05-2023.pdf",
+			"pageCount": 119,
+			"blockCount": 2105,
+			"characterCount": 164041,
+			"speakers": [
+				"MR MYERS",
+				"LETBY",
+				"MYERS",
+				"MR JUSTICE GOSS",
+				"MR ASTBURY"
+			]
+		},
+		{
+			"day": 114,
+			"date": "2023-05-16",
+			"title": "Day 4 - Babies I, J, K, L, M & N",
+			"section": "Lucy Letby - Examination-in-chief by Ben Myers LC",
+			"filename": "day_114_16-05-2023.pdf",
+			"sourceUrl": "https://lucyletbyinnocence.com/transcripts/day_114_16-05-2023.pdf",
+			"pageCount": 130,
+			"blockCount": 2411,
+			"characterCount": 171405,
+			"speakers": [
+				"MR MYERS",
+				"LETBY",
+				"MYERS",
+				"MR JUSTICE GOSS",
+				"MEMBER OF THE PRESS"
+			]
+		},
+		{
+			"day": 115,
+			"date": "2023-05-17",
+			"title": "Day 5 - Babies N, O, P & Q. Cross-examination begins: Day 1 - General topics",
+			"section": "Lucy Letby - Examination-in-chief by Ben Myers LC",
+			"filename": "day_115_17-05-2023.pdf",
+			"sourceUrl": "https://lucyletbyinnocence.com/transcripts/day_115_17-05-2023.pdf",
+			"pageCount": 136,
+			"blockCount": 2460,
+			"characterCount": 180551,
+			"speakers": [
+				"MR JUSTICE GOSS",
+				"MR JOHNSON",
+				"MR MYERS",
+				"LETBY",
+				"MYERS",
+				"JOHNSON"
+			]
+		},
+		{
+			"day": 116,
+			"date": "2023-05-18",
+			"title": "Day 2 - Babies A, B, & C",
+			"section": "Lucy Letby - Cross-examination by Nick Johnson KC",
+			"filename": "day_116_18-05-2023.pdf",
+			"sourceUrl": "https://lucyletbyinnocence.com/transcripts/day_116_18-05-2023.pdf",
+			"pageCount": 121,
+			"blockCount": 2287,
+			"characterCount": 146491,
+			"speakers": [
+				"MR JOHNSON",
+				"LETBY",
+				"JOHNSON",
+				"MR JUSTICE GOSS",
+				"MR MYERS"
+			]
+		},
+		{
+			"day": 117,
+			"date": "2023-05-19",
+			"title": "Day 3 - Babies C & D",
+			"section": "Lucy Letby - Cross-examination by Nick Johnson KC",
+			"filename": "day_117_19-05-2023.pdf",
+			"sourceUrl": "https://lucyletbyinnocence.com/transcripts/day_117_19-05-2023.pdf",
+			"pageCount": 49,
+			"blockCount": 917,
+			"characterCount": 60430,
+			"speakers": [
+				"MR JUSTICE GOSS",
+				"MR MYERS",
+				"MR JOHNSON",
+				"LETBY",
+				"JOHNSON"
+			]
+		},
+		{
+			"day": 118,
+			"date": "2023-05-24",
+			"title": "Day 4 - Babies E, G & H",
+			"section": "Lucy Letby - Cross-examination by Nick Johnson KC",
+			"filename": "day_118_24-05-2023.pdf",
+			"sourceUrl": "https://lucyletbyinnocence.com/transcripts/day_118_24-05-2023.pdf",
+			"pageCount": 116,
+			"blockCount": 2254,
+			"characterCount": 133098,
+			"speakers": [
+				"MR JUSTICE GOSS",
+				"MR JOHNSON",
+				"LETBY",
+				"JOHNSON",
+				"MR MYERS"
+			]
+		},
+		{
+			"day": 119,
+			"date": "2023-05-25",
+			"title": "Day 5 - Babies H & I",
+			"section": "Lucy Letby - Cross-examination by Nick Johnson KC",
+			"filename": "day_119_25-05-2023.pdf",
+			"sourceUrl": "https://lucyletbyinnocence.com/transcripts/day_119_25-05-2023.pdf",
+			"pageCount": 104,
+			"blockCount": 2016,
+			"characterCount": 120223,
+			"speakers": [
+				"MR JUSTICE GOSS",
+				"MR JOHNSON",
+				"LETBY",
+				"JOHNSON",
+				"MR MYERS"
+			]
+		},
+		{
+			"day": 120,
+			"date": "2023-05-30",
+			"title": "Juror absent (personal reasons), Discussion between Judge and counsel",
+			"section": "Lucy Letby - Cross-examination by Nick Johnson KC",
+			"filename": "day_120_30-05-2023.pdf",
+			"sourceUrl": "https://lucyletbyinnocence.com/transcripts/day_120_30-05-2023.pdf",
+			"pageCount": 13,
+			"blockCount": 187,
+			"characterCount": 20811,
+			"speakers": [
+				"MR JUSTICE GOSS",
+				"MR JOHNSON",
+				"MR MYERS"
+			]
+		},
+		{
+			"day": 122,
+			"date": "2023-06-02",
+			"title": "Day 6 - Babies I, J & K",
+			"section": "Lucy Letby - Cross-examination by Nick Johnson KC",
+			"filename": "day_122_02-06-2023.pdf",
+			"sourceUrl": "https://lucyletbyinnocence.com/transcripts/day_122_02-06-2023.pdf",
+			"pageCount": 80,
+			"blockCount": 1535,
+			"characterCount": 91150,
+			"speakers": [
+				"MR JUSTICE GOSS",
+				"MR JOHNSON",
+				"LETBY",
+				"JOHNSON",
+				"MR MYERS"
+			]
+		},
+		{
+			"day": 123,
+			"date": "2023-06-05",
+			"title": "Day 7 - Babies K, F & L",
+			"section": "Lucy Letby - Cross-examination by Nick Johnson KC",
+			"filename": "day_123_05-06-2023.pdf",
+			"sourceUrl": "https://lucyletbyinnocence.com/transcripts/day_123_05-06-2023.pdf",
+			"pageCount": 65,
+			"blockCount": 1235,
+			"characterCount": 76108,
+			"speakers": [
+				"MR JUSTICE GOSS",
+				"MR JOHNSON",
+				"LETBY",
+				"JOHNSON",
+				"MR MYERS",
+				"MS CLANCY"
+			]
+		},
+		{
+			"day": 124,
+			"date": "2023-06-06",
+			"title": "Housekeeping",
+			"section": "Lucy Letby - Cross-examination by Nick Johnson KC",
+			"filename": "day_124_06-06-2023.pdf",
+			"sourceUrl": "https://lucyletbyinnocence.com/transcripts/day_124_06-06-2023.pdf",
+			"pageCount": 4,
+			"blockCount": 47,
+			"characterCount": 5166,
+			"speakers": [
+				"MR JUSTICE GOSS",
+				"MR JOHNSON",
+				"MR MYERS",
+				"DOCK OFFICER"
+			]
+		},
+		{
+			"day": 125,
+			"date": "2023-06-07",
+			"title": "Day 8 - Babies M & N",
+			"section": "Lucy Letby - Cross-examination by Nick Johnson KC",
+			"filename": "day_125_07-06-2023.pdf",
+			"sourceUrl": "https://lucyletbyinnocence.com/transcripts/day_125_07-06-2023.pdf",
+			"pageCount": 89,
+			"blockCount": 1709,
+			"characterCount": 103316,
+			"speakers": [
+				"MR JUSTICE GOSS",
+				"MR JOHNSON",
+				"LETBY",
+				"JOHNSON",
+				"MR MYERS"
+			]
+		},
+		{
+			"day": 126,
+			"date": "2023-06-08",
+			"title": "Day 9 - Babies O, P & Q",
+			"section": "Lucy Letby - Cross-examination by Nick Johnson KC",
+			"filename": "day_126_08-06-2023.pdf",
+			"sourceUrl": "https://lucyletbyinnocence.com/transcripts/day_126_08-06-2023.pdf",
+			"pageCount": 118,
+			"blockCount": 2257,
+			"characterCount": 138022,
+			"speakers": [
+				"MR MYERS",
+				"MR JUSTICE GOSS",
+				"LETBY",
+				"MR JOHNSON",
+				"JOHNSON",
+				"DOCK OFFICER"
+			]
+		},
+		{
+			"day": 127,
+			"date": "2023-06-09",
+			"title": "Submissions by the Defence & Prosecution, completion of Cross-examination (Day 10), Re-examination by Ben Myers KC",
+			"section": "Lucy Letby - Final day of Cross-examination & Re-examination by Ben Myers KC",
+			"filename": "day_127_09-06-2023.pdf",
+			"sourceUrl": "https://lucyletbyinnocence.com/transcripts/day_127_09-06-2023.pdf",
+			"pageCount": 84,
+			"blockCount": 1561,
+			"characterCount": 107543,
+			"speakers": [
+				"MR JUSTICE GOSS",
+				"MR JOHNSON",
+				"MR MYERS",
+				"LETBY",
+				"JOHNSON",
+				"MYERS"
+			]
+		},
+		{
+			"day": 129,
+			"date": "2023-06-14",
+			"title": "Lorenzo Mansutti (Estates plumber), Discussion regarding Judge's Directions to the Jury",
+			"section": "Defence witness",
+			"filename": "day_129_14-06-2023.pdf",
+			"sourceUrl": "https://lucyletbyinnocence.com/transcripts/day_129_14-06-2023.pdf",
+			"pageCount": 54,
+			"blockCount": 801,
+			"characterCount": 90130,
+			"speakers": [
+				"MR MYERS",
+				"MR JUSTICE GOSS",
+				"MANSUTTI",
+				"MYERS",
+				"MR JOHNSON",
+				"JOHNSON",
+				"MR PILLING"
+			]
+		},
+		{
+			"day": 130,
+			"date": "2023-06-15",
+			"title": "Discussion regarding cross-admissibity. Judge's Directions to the Jury",
+			"section": "Directions to the Jury (web page)",
+			"filename": "day_130_15-06-2023.pdf",
+			"sourceUrl": "https://lucyletbyinnocence.com/transcripts/day_130_15-06-2023.pdf",
+			"pageCount": 18,
+			"blockCount": 215,
+			"characterCount": 36580,
+			"speakers": [
+				"MR JUSTICE GOSS",
+				"MR JOHNSON",
+				"MR MYERS",
+				"MR PILLING"
+			]
+		},
+		{
+			"day": 131,
+			"date": "2023-06-19",
+			"title": "Day 1: Introduction, Babies E, F, L & M",
+			"section": "Prosecution Closing Speech",
+			"filename": "day_131_19-06-2023.pdf",
+			"sourceUrl": "https://lucyletbyinnocence.com/transcripts/day_131_19-06-2023.pdf",
+			"pageCount": 57,
+			"blockCount": 568,
+			"characterCount": 128793,
+			"speakers": [
+				"MR JUSTICE GOSS",
+				"MR JOHNSON",
+				"MR MYERS"
+			]
+		},
+		{
+			"day": 132,
+			"date": "2023-06-20",
+			"title": "Day 2: Babies O & P, Handover sheets, notes, social life etc., Babies A & B",
+			"section": "Prosecution Closing Speech",
+			"filename": "day_132_20-06-2023.pdf",
+			"sourceUrl": "https://lucyletbyinnocence.com/transcripts/day_132_20-06-2023.pdf",
+			"pageCount": 67,
+			"blockCount": 730,
+			"characterCount": 146592,
+			"speakers": [
+				"MR JUSTICE GOSS",
+				"MR JOHNSON",
+				"MR MYERS"
+			]
+		},
+		{
+			"day": 133,
+			"date": "2023-06-21",
+			"title": "Day 3: Babies A & B cont., Babies C, D, G & H",
+			"section": "Prosecution Closing Speech",
+			"filename": "day_133_21-06-2023.pdf",
+			"sourceUrl": "https://lucyletbyinnocence.com/transcripts/day_133_21-06-2023.pdf",
+			"pageCount": 74,
+			"blockCount": 809,
+			"characterCount": 157877,
+			"speakers": [
+				"MR JUSTICE GOSS",
+				"MR JOHNSON",
+				"MR MYERS"
+			]
+		},
+		{
+			"day": 134,
+			"date": "2023-06-22",
+			"title": "Day 4: Babies I, J, N & Q, Summary & conclusion",
+			"section": "Prosecution Closing Speech",
+			"filename": "day_134_22-06-2023.pdf",
+			"sourceUrl": "https://lucyletbyinnocence.com/transcripts/day_134_22-06-2023.pdf",
+			"pageCount": 76,
+			"blockCount": 806,
+			"characterCount": 167962,
+			"speakers": [
+				"MR JOHNSON",
+				"MR JUSTICE GOSS",
+				"MR MYERS"
+			]
+		},
+		{
+			"day": 136,
+			"date": "2023-06-26",
+			"title": "Day 1: The Prosecution & Evidence, Lucy Letby, Expert witnesses. Discussion with Judge",
+			"section": "Defence Closing Speech (web page)",
+			"filename": "day_136_26-06-2023.pdf",
+			"sourceUrl": "https://lucyletbyinnocence.com/transcripts/day_136_26-06-2023.pdf",
+			"pageCount": 80,
+			"blockCount": 579,
+			"characterCount": 202192,
+			"speakers": [
+				"MR MYERS",
+				"MR JUSTICE GOSS",
+				"MR JOHNSON"
+			]
+		},
+		{
+			"day": 137,
+			"date": "2023-06-27",
+			"title": "Day 2: Babies A, B, C, D & E",
+			"section": "Defence Closing Speech (web page)",
+			"filename": "day_137_27-06-2023.pdf",
+			"sourceUrl": "https://lucyletbyinnocence.com/transcripts/day_137_27-06-2023.pdf",
+			"pageCount": 94,
+			"blockCount": 993,
+			"characterCount": 206867,
+			"speakers": [
+				"MR MYERS",
+				"MR JUSTICE GOSS",
+				"MR JOHNSON"
+			]
+		},
+		{
+			"day": 138,
+			"date": "2023-06-28",
+			"title": "Day 3: Babies F, G, H & I",
+			"section": "Defence Closing Speech (web page)",
+			"filename": "day_138_28-06-2023.pdf",
+			"sourceUrl": "https://lucyletbyinnocence.com/transcripts/day_138_28-06-2023.pdf",
+			"pageCount": 85,
+			"blockCount": 852,
+			"characterCount": 193927,
+			"speakers": [
+				"MR MYERS",
+				"MR JUSTICE GOSS"
+			]
+		},
+		{
+			"day": 139,
+			"date": "2023-06-29",
+			"title": "Day 4: Babies J, L, M N, O & P",
+			"section": "Defence Closing Speech (web page)",
+			"filename": "day_139_29-06-2023.pdf",
+			"sourceUrl": "https://lucyletbyinnocence.com/transcripts/day_139_29-06-2023.pdf",
+			"pageCount": 62,
+			"blockCount": 635,
+			"characterCount": 137327,
+			"speakers": [
+				"MR JUSTICE GOSS",
+				"MR MYERS",
+				"MR JOHNSON"
+			]
+		},
+		{
+			"day": 140,
+			"date": "2023-06-30",
+			"title": "Day 5: Babies O, P & Q. Summary & Conclusion. Discussion regarding Judge's Legal Directions",
+			"section": "Defence Closing Speech (web page)",
+			"filename": "day_140_30-06-2023.pdf",
+			"sourceUrl": "https://lucyletbyinnocence.com/transcripts/day_140_30-06-2023.pdf",
+			"pageCount": 67,
+			"blockCount": 732,
+			"characterCount": 145057,
+			"speakers": [
+				"MR MYERS",
+				"MR JUSTICE GOSS",
+				"MR JOHNSON"
+			]
+		},
+		{
+			"day": 141,
+			"date": "2023-07-03",
+			"title": "Day 1: Introduction, Babies A, B & C (includes prior discussion)",
+			"section": "Judge's Summing Up (Web page)",
+			"filename": "day_141_03-07-2023.pdf",
+			"sourceUrl": "https://lucyletbyinnocence.com/transcripts/day_141_03-07-2023.pdf",
+			"pageCount": 79,
+			"blockCount": 754,
+			"characterCount": 180112,
+			"speakers": [
+				"MR JUSTICE GOSS",
+				"MR JOHNSON",
+				"MR MYERS"
+			]
+		},
+		{
+			"day": 142,
+			"date": "2023-07-04",
+			"title": "Day 2: Babies D, E, F & G",
+			"section": "Judge's Summing Up (Web page)",
+			"filename": "day_142_04-07-2023.pdf",
+			"sourceUrl": "https://lucyletbyinnocence.com/transcripts/day_142_04-07-2023.pdf",
+			"pageCount": 82,
+			"blockCount": 791,
+			"characterCount": 188891,
+			"speakers": [
+				"MR JUSTICE GOSS",
+				"MR MYERS",
+				"MR JOHNSON"
+			]
+		},
+		{
+			"day": 143,
+			"date": "2023-07-05",
+			"title": "Day 3: Babies H, I, J & K",
+			"section": "Judge's Summing Up (Web page)",
+			"filename": "day_143_05-07-2023.pdf",
+			"sourceUrl": "https://lucyletbyinnocence.com/transcripts/day_143_05-07-2023.pdf",
+			"pageCount": 68,
+			"blockCount": 623,
+			"characterCount": 158208,
+			"speakers": [
+				"MR JUSTICE GOSS",
+				"MR MYERS"
+			]
+		},
+		{
+			"day": 144,
+			"date": "2023-07-06",
+			"title": "Day 4: Babies K, L, M, N, O & P",
+			"section": "Judge's Summing Up (Web page)",
+			"filename": "day_144_06-07-2023.pdf",
+			"sourceUrl": "https://lucyletbyinnocence.com/transcripts/day_144_06-07-2023.pdf",
+			"pageCount": 77,
+			"blockCount": 730,
+			"characterCount": 179803,
+			"speakers": [
+				"MR JUSTICE GOSS",
+				"MR MYERS",
+				"MR JOHNSON"
+			]
+		},
+		{
+			"day": 145,
+			"date": "2023-07-10",
+			"title": "Day 5: Baby Q, Other matters, Conclusion. Jury deliberations begin.",
+			"section": "Judge's Summing Up (Web page)",
+			"filename": "day_145_10-07-2023.pdf",
+			"sourceUrl": "https://lucyletbyinnocence.com/transcripts/day_145_10-07-2023.pdf",
+			"pageCount": 33,
+			"blockCount": 340,
+			"characterCount": 70740,
+			"speakers": [
+				"MR JUSTICE GOSS",
+				"MR JOHNSON",
+				"MR MYERS",
+				"MR MURPHY"
+			]
+		}
+	]
+}
