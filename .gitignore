@@ -1,0 +1,9 @@
+node_modules
+dist
+.DS_Store
+playwright-report
+test-results
+generated
+public/data
+public/pagefind
+*.local
